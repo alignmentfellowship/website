@@ -36,8 +36,13 @@ Content is not authored here. It is exported from a private writing desk as a
 
 ```bash
 ./scripts/import-bundle.sh /path/to/bundle
+npm run og      # rebuild link-preview images; local only, needs Pillow + macOS fonts
 npm run build
 ```
+
+`npm run og` is deliberately not part of `npm run build`: the deploy host has neither
+Pillow nor the system serif the cards are set in. The images are committed, so a deploy
+just serves them.
 
 The exporter strips everything desk-internal — the header above the first `---`, HTML
 comments, and dagger-marked verify notes inside footnotes — and refuses to export a piece

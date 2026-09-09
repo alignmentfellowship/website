@@ -17,6 +17,13 @@ TWO KINDS
   promise and no ornament, per brand.md; the unfurler prints the title and description
   itself, so the image does not have to shout them.
 
+WHERE THIS RUNS
+  Locally, and never on the deploy host. It needs Pillow and a macOS system serif,
+  neither of which exists in Vercel's Node build image — the first attempt at wiring
+  it into `npm run build` failed there on `No module named 'PIL'`. The output is
+  committed like any other asset, so a deploy just serves it. Re-run after content
+  changes: `npm run og`.
+
 USAGE
   python3 scripts/make-og.py
 """
