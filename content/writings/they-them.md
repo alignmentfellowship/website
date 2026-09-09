@@ -14,7 +14,7 @@ hero:
     arm outstretched, with a broad white brushstroke struck across the eyes
   width: 1484
   height: 1060
-digest: sha256:c1e26b0f58c31fc6ac755cb573f6922192e420c653a198112dfc362206f1d34a
+digest: sha256:f5d75ca31a20dc595fe5eca29de9921fc28806df11c801758686db90d6d6b387
 ---
 
 ## I. The Picture No One Chose
@@ -542,8 +542,12 @@ more than 500 million times (higher estimates run past a billion by century's en
 its reproduction and institutional reach, David Morgan, *Icons of American Protestantism:
 The Art of Warner Sallman* (1996); Blum and Harvey, *The Color of Christ* (2012).
 
-[^14]: Cone's debt to Paul Tillich's theology of the symbol — cf. Tillich, *Systematic
-Theology* vol. 1, and *Dynamics of Faith*.
+[^14]: James H. Cone, *A Black Theology of Liberation* (Philadelphia: Lippincott, 1970), 27,
+in the chapter "The Content of Theology": Black Theology, he writes, takes seriously Paul
+Tillich's description of the symbolic nature of all theological speech, and blackness is on
+that account "an ontological symbol" as well as a visible reality. He separates the two senses
+at 32 — a physiological trait, and a symbol for everyone who shares in the liberation of the
+oppressed. On the Tillich side, *Systematic Theology* vol. 1 and *Dynamics of Faith*.
 
 [^15]: Genesis 16:1-6.
 

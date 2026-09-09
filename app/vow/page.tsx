@@ -5,6 +5,7 @@ import { NAME, VOW, NEVER_ASKED } from '@/lib/fellowship'
 export const metadata: Metadata = {
   title: 'The vow',
   description: 'The one thing asked, and the list of things never asked.',
+  openGraph: { images: [{ url: '/og/vow.jpg', width: 1200, height: 630 }] },
 }
 
 function Emphasised({ text }: { text: string }) {

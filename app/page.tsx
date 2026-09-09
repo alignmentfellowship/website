@@ -61,6 +61,13 @@ export default function Home() {
               <li key={r.name}>
                 <b>{r.name}</b>
                 <span>{r.body}</span>
+                <span className="sources">
+                  {r.sources.map((s) => (
+                    <Link key={s.slug} href={`/writings/${s.slug}`}>
+                      {s.title}
+                    </Link>
+                  ))}
+                </span>
               </li>
             ))}
           </ul>

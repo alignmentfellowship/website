@@ -27,7 +27,13 @@ export const metadata: Metadata = {
   title: { default: NAME, template: `%s — ${NAME}` },
   description:
     'A rational approach to following Jesus. It asks for one thing, faith in, and never for the other thing, faith that.',
-  openGraph: { siteName: NAME, type: 'website' },
+  openGraph: {
+    siteName: NAME,
+    type: 'website',
+    images: [{ url: '/og/home.jpg', width: 1200, height: 630 }],
+  },
+  // Without this an unfurler shows a thumbnail beside the text instead of the image.
+  twitter: { card: 'summary_large_image' },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

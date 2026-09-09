@@ -18,6 +18,9 @@ const writings = defineCollection({
   schema: s
     .object({
       slug: s.string(),
+      // What the writing desk calls this piece. Present only when it differs
+      // from the public slug; the site emits a redirect from it.
+      source_slug: s.string().optional(),
       title: s.string(),
       subtitle: s.string().optional(),
       published_at: s.coerce.date(),

@@ -1,0 +1,194 @@
+{
+  "redirects": [
+    {
+      "source": "/writings/darkness-and-light",
+      "destination": "/writings/the-kingdom-that-isnt/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/darkness-and-light/",
+      "destination": "/writings/the-kingdom-that-isnt/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/distinction",
+      "destination": "/writings/the-distance-that-love-needs/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/distinction/",
+      "destination": "/writings/the-distance-that-love-needs/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/dog-training-separate-self",
+      "destination": "/writings/both-ends-of-the-leash/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/dog-training-separate-self/",
+      "destination": "/writings/both-ends-of-the-leash/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/fear-of-god",
+      "destination": "/writings/jealous-of-a-calf/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/fear-of-god/",
+      "destination": "/writings/jealous-of-a-calf/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/forking-paths",
+      "destination": "/writings/where-the-timelines-agree/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/forking-paths/",
+      "destination": "/writings/where-the-timelines-agree/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/god-through-ai",
+      "destination": "/writings/the-machine-you-expect/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/god-through-ai/",
+      "destination": "/writings/the-machine-you-expect/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/hearing-firsthand",
+      "destination": "/writings/secondhand/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/hearing-firsthand/",
+      "destination": "/writings/secondhand/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/hollow-flute",
+      "destination": "/writings/the-hollow-flute-how-to-be-loved/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/hollow-flute/",
+      "destination": "/writings/the-hollow-flute-how-to-be-loved/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/knowledge-of-good-and-evil",
+      "destination": "/writings/the-knowledge-of-good-and-evil/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/knowledge-of-good-and-evil/",
+      "destination": "/writings/the-knowledge-of-good-and-evil/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/krishna-and-christ",
+      "destination": "/writings/krishna-is-not-christ/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/krishna-and-christ/",
+      "destination": "/writings/krishna-is-not-christ/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/lord-lord",
+      "destination": "/writings/the-sheep-in-the-basement/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/lord-lord/",
+      "destination": "/writings/the-sheep-in-the-basement/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/made-with-hands",
+      "destination": "/writings/the-fountain-and-the-cistern/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/made-with-hands/",
+      "destination": "/writings/the-fountain-and-the-cistern/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/she-her",
+      "destination": "/writings/a-mother-bird-over-the-deep/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/she-her/",
+      "destination": "/writings/a-mother-bird-over-the-deep/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/the-dreamer",
+      "destination": "/writings/the-novelist-dm/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/the-dreamer/",
+      "destination": "/writings/the-novelist-dm/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/the-name",
+      "destination": "/writings/in-the-name-the-ambassador/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/the-name/",
+      "destination": "/writings/in-the-name-the-ambassador/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/the-optimal-timeline",
+      "destination": "/writings/the-highest-peak/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/the-optimal-timeline/",
+      "destination": "/writings/the-highest-peak/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/thousand-faces",
+      "destination": "/writings/the-mask-comes-off-last/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/thousand-faces/",
+      "destination": "/writings/the-mask-comes-off-last/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/tone-deaf",
+      "destination": "/writings/the-life-is-not-in-the-book/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/tone-deaf/",
+      "destination": "/writings/the-life-is-not-in-the-book/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/two-wills",
+      "destination": "/writings/nobody-crosses-on-evidence/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/two-wills/",
+      "destination": "/writings/nobody-crosses-on-evidence/",
+      "permanent": true
+    }
+  ]
+}

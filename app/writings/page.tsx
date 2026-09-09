@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'The founding writings',
   description:
     'The founding library, read by the question each piece answers for the Fellowship.',
+  openGraph: { images: [{ url: '/og/writings.jpg', width: 1200, height: 630 }] },
 }
 
 type Entry = { slug: string; title: string; subtitle: string | null; published: boolean }

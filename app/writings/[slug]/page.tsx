@@ -28,7 +28,10 @@ export async function generateMetadata(
       description: w.subtitle,
       type: 'article',
       publishedTime: new Date(w.published_at).toISOString(),
-      images: w.hero ? [{ url: w.hero.src, alt: w.hero.alt }] : undefined,
+      // The page's hero is WebP, which several unfurlers (iMessage among them) will
+      // not render — they show nothing rather than fall back. Every piece gets a JPEG
+      // preview built by scripts/make-og.py instead.
+      images: [{ url: `/og/${w.slug}.jpg`, width: 1200, height: 630, alt: w.title }],
     },
   }
 }

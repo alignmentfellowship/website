@@ -8,7 +8,7 @@ canonical: https://alignmentfellowship.org/writings/son-of-joseph
 syndicated:
 - platform: substack
   url: https://elmuffin.substack.com/p/son-of-joseph
-digest: sha256:b47d67c1480b134340777d8f10d63902d817b81ceaf2186c55cd463e62da2c29
+digest: sha256:75d7c87c6e560813eb16e096361a7dbcc8fd1b66120d412f45af3c605a91cd4e
 ---
 
 ## I. The list nobody reads
@@ -323,8 +323,7 @@ is named after.
 Let me state the uniqueness claim narrowly, because the wide versions of it are false and I have
 argued against them myself. It is not that He alone loved God; people have loved God magnificently
 in every tradition and every century, and I came to God through devotional chanting in a language I
-did not speak, years before Jesus found me, so I am hardly in a position to claim the East
-was short of love. It is not that the God He pointed to was unavailable elsewhere. It is something more
+did not speak. It is not that the God He pointed to was unavailable elsewhere. It is something more
 particular, and checkable: *where He puts the doing.* The deflection is not an occasional modesty;
 it is a habit of speech running through the discourses — *the Son can do nothing of Himself*, *My
 doctrine is not Mine*, *I do nothing of Myself*, *I have not spoken of Myself.*[^deflection]

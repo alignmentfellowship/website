@@ -142,7 +142,26 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 400; letter-spacing: -0.015
   font-size: 1.0625rem;
   margin-bottom: 0.25rem;
 }
-.refusals span { color: var(--ink-soft); font-size: 0.9688rem; line-height: 1.58; }
+.refusals > li > span { color: var(--ink-soft); font-size: 0.9688rem; line-height: 1.58; }
+
+/* The essay behind each refusal. Set small and in the sans, because it is apparatus:
+   the claim is the sentence above, and these are where to go argue with it. */
+.refusals .sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin-top: 0.6rem;
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+}
+.refusals .sources a {
+  color: var(--ink-faint);
+  text-decoration: none;
+  border-bottom: 1px solid var(--hair);
+  padding-bottom: 1px;
+  transition: color 120ms ease, border-color 120ms ease;
+}
+.refusals .sources a:hover { color: var(--amber); border-bottom-color: var(--amber); }
 
 /* ---- the library -------------------------------------------------------- */
 

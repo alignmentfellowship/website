@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "velite && next dev",
-    "build": "velite && next build",
+    "build": "velite && python3 scripts/make-og.py && next build",
     "start": "next start",
-    "import": "bash scripts/import-bundle.sh"
+    "import": "bash scripts/import-bundle.sh",
+    "og": "python3 scripts/make-og.py"
   },
   "dependencies": {
     "next": "^16.3.4",
