@@ -9,6 +9,13 @@ canonical: https://alignmentfellowship.org/writings/the-author-is-not-a-characte
 syndicated:
 - platform: substack
   url: https://elmuffin.substack.com/p/the-author-is-not-a-character
+hero:
+  src: /images/the-author-is-not-a-character/hero.webp
+  alt: An open illuminated manuscript whose drawn landscape is crowded with tiny figures; a doorway of
+    light has opened in the page itself, and someone stands in it, casting light across the world the
+    page describes.
+  width: 1484
+  height: 1060
 digest: sha256:5db7db5cbdcc723a71d89121ae02b4a6f4f850cad63f62e04c87138c0e26c314
 ---
 

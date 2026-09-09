@@ -9,6 +9,12 @@ canonical: https://alignmentfellowship.org/writings/secondhand
 syndicated:
 - platform: substack
   url: https://elmuffin.substack.com/p/secondhand
+hero:
+  src: /images/secondhand/hero.webp
+  alt: A man sits alone under an olive tree at sunset while another rides toward him on a donkey along
+    the road, a hill town on the ridge behind them.
+  width: 1484
+  height: 1060
 digest: sha256:a56aeb87c844a90005beceff2044dda2c103cdb71afdb87f77580371fde508cc
 ---
 

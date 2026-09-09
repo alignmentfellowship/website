@@ -14,7 +14,7 @@ hero:
     his chest; and a man in a plain robe on a hillside at dawn, hands open, light in his chest'
   width: 1484
   height: 1060
-digest: sha256:49ffd61be99abe2a75b34887364a8f89c7e3aaf4d6bba9eba9f95bccba926b12
+digest: sha256:62fafbbd6ad70f71b0dfef66b90aa87d09301fae31065856aed628b51aa26a2a
 ---
 
 ## I. The Smallest Reading
@@ -278,7 +278,7 @@ room meets the One it belongs to and not the herald. It's the third commandment 
 prohibition into a longing. *Don't take My name emptily* and *let Thy name be hallowed* are the same
 sentence, said from its two ends.
 
-There's a way to get there. It isn't an exercise in emptying yourself; a self that sets out to empty itself has just found a new project, and the men who said *LORD, LORD* weren't sorted from the saints by a technique they lacked. You can't sort them either. What the way is belongs to another essay. What this one has is the question, and you can ask it now. Of the next thing you do, before you do it: who is this for? It's small enough to ask of a swear word and large enough to ask of a life, and it's a question the wall can't answer, because the honest answer is the wall.
+There's a way to get there. It isn't an exercise in emptying yourself; a self that sets out to empty itself has just found a new project, and the men who said *LORD, LORD* weren't sorted from the saints by a technique they lacked. You can't sort them either. What the way is belongs to [*Rising After Falls*](https://elmuffin.substack.com/p/rising-after-falls). What this one has is the question, and you can ask it now. Of the next thing you do, before you do it: who is this for? It's small enough to ask of a swear word and large enough to ask of a life, and it's a question the wall can't answer, because the honest answer is the wall.
 
 Everybody knows this commandment, and everybody knows what it means. It means don't swear. It never
 said the swearing was about the words.

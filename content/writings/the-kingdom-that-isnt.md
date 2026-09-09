@@ -9,6 +9,13 @@ canonical: https://alignmentfellowship.org/writings/the-kingdom-that-isnt
 syndicated:
 - platform: substack
   url: https://elmuffin.substack.com/p/the-kingdom-that-isnt
+hero:
+  src: /images/the-kingdom-that-isnt/hero.webp
+  alt: A dark hall floored like a chessboard with ranks of pale and dark pieces drawn up along either
+    side; at the centre, under a shaft of light, a robed figure kneels and lays a hand on the head of
+    another who kneels before him.
+  width: 1484
+  height: 1060
 digest: sha256:201762476da5f64134b5ca6daa3e83742f088f695b74e97d126dd11be3a98ec6
 ---
 

@@ -9,6 +9,12 @@ canonical: https://alignmentfellowship.org/writings/the-fountain-and-the-cistern
 syndicated:
 - platform: substack
   url: https://elmuffin.substack.com/p/the-fountain-and-the-cistern
+hero:
+  src: /images/the-fountain-and-the-cistern/hero.webp
+  alt: 'A stone courtyard: on one side a spring pours from the wall into a running channel; on the other
+    a cracked, empty cistern with a broken jar beside it.'
+  width: 1484
+  height: 1060
 digest: sha256:a445724e2c3cbc6242b50d7a5c12bac3efe550356ec37f5f8a063e8c1e74ef70
 ---
 

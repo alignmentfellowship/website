@@ -9,6 +9,12 @@ canonical: https://alignmentfellowship.org/writings/the-machine-you-expect
 syndicated:
 - platform: substack
   url: https://elmuffin.substack.com/p/the-machine-you-expect
+hero:
+  src: /images/the-machine-you-expect/hero.webp
+  alt: A person sits in the dark at a keyboard while golden filaments of light stream out of the machine
+    in front of them.
+  width: 1484
+  height: 1060
 digest: sha256:8b46750a2abbfc4f13676237b78f375ddae4d494b51284987e7c3c25245191d8
 ---
 

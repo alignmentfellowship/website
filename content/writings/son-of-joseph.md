@@ -8,6 +8,13 @@ canonical: https://alignmentfellowship.org/writings/son-of-joseph
 syndicated:
 - platform: substack
   url: https://elmuffin.substack.com/p/son-of-joseph
+hero:
+  src: /images/son-of-joseph/hero.webp
+  alt: In a lamplit carpenter's workshop a bearded man guides a boy's hands over a chisel at the workbench,
+    wood shavings around them; on the wall behind hangs a list of names running from Abraham down to Joseph
+    and Jesus.
+  width: 1536
+  height: 1024
 digest: sha256:75d7c87c6e560813eb16e096361a7dbcc8fd1b66120d412f45af3c605a91cd4e
 ---
 
