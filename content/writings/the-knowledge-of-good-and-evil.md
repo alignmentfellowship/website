@@ -1,7 +1,6 @@
 ---
 slug: the-knowledge-of-good-and-evil
 title: The Knowledge of Good and Evil
-source_slug: knowledge-of-good-and-evil
 subtitle: A last meal, the first tree, and why the line between good and evil is the thing that keeps
   us from Jesus
 published_at: 2026-08-25
@@ -16,7 +15,7 @@ hero:
     other — standing on one root system that holds both
   width: 1600
   height: 1001
-digest: sha256:9b5a921b23657cacc7861c276857beca4543013c9b3c05ba719bff964b2f5a69
+digest: sha256:7fabe43f845c185fc6cbd1da1b3488a398b8210fd2e655306b56e2c5ca26e6a7
 ---
 
 ## I. The Last Meal
@@ -43,7 +42,7 @@ What he reaches for anyway, once the gravy is in front of him and the subject is
 nihilism. It arrives in him by the one road that
 reliably gets a person there, which is the collapse of everything he used to think held him up.
 
-I want to use his last meal to argue something about the first one. About a tree, and a piece of
+That last meal argues something about the first one. About a tree, and a piece of
 fruit, and the particular knowledge it's said to have handed us — the knowledge, the story calls it,
 of good and evil. My claim is that this knowledge is the knowledge of *two powers:* the conviction,
 which nearly all of us run on without noticing we hold it, that reality is split down the middle
@@ -54,7 +53,7 @@ powers. He believed in one, and He asked us to trust it.
 
 ## II. Two Powers
 
-The man before the collapse is a clean specimen of the belief the rest of this essay is about. The belief is that there are two powers, and that your job is to fight on the
+The man before the collapse is a clean specimen of the belief in question. The belief is that there are two powers, and that your job is to fight on the
 right side. It does not feel like a belief. It feels like reality.
 
 Ask Corey where his drive came from and he doesn't reach for a gift. He reaches for a wound — being
@@ -236,7 +235,7 @@ world, and the moment the sowing changes, so does the harvest. Corey is not bein
 being, in the oldest sense of the word, forgiven — which turns out to mean nothing more mysterious
 than this: the door was never locked, and there was never a warden.
 
-## VIII. Two Objections, Named Before You Raise Them
+## VIII. Two Objections
 
 By now two complaints are standing up, and both are good.
 
@@ -257,7 +256,7 @@ The second objection is the cheap-sounding one. *This is just pantheism — "we'
 exact stoned epiphany you'd expect a metal singer to have over a bowl of nachos.* Grant the
 resemblance. The beanbag version says
 God is the sum of the stuff, a warm fog we are all dissolved in, so that nobody is finally anybody and
-nothing is finally owed. This essay says there is one power and no second, and that the one power is
+nothing is finally owed. The claim here is that there is one power and no second, and that the one power is
 not a fog but a Someone — a Father Jesus talks to, a *Me* in the least of these, a name Corey Taylor
 had to invent because he needed somebody to address. Pantheism has no one to say *Thy will be done*
 to. This has no one else to say it to. And that is not a comfort. It is the hardest thing anyone has

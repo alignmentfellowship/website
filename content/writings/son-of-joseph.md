@@ -15,7 +15,7 @@ hero:
     and Jesus.
   width: 1536
   height: 1024
-digest: sha256:75d7c87c6e560813eb16e096361a7dbcc8fd1b66120d412f45af3c605a91cd4e
+digest: sha256:fbf58b06f90650b22c078b1f65c12d4f98903d08f4688c28ae737cbc4f02d641
 ---
 
 ## I. The list nobody reads
@@ -73,7 +73,7 @@ He came from, which is that He came from where you came from. And I think the pa
 a question the genealogy never had — an answer that solved one problem and created a much larger
 one, which the church has been living inside ever since.
 
-This essay takes that answer down, and not in order to reduce Him. I am doing it because I have
+That answer comes down here, and not in order to reduce Him. I am doing it because I have
 come to think the doctrine of the virgin birth is the single
 largest obstacle to the thing He actually asked of us, and that what stands behind the picture,
 once you take the picture down, is better than the picture.
@@ -112,7 +112,7 @@ Matthew has just spent seventeen verses documenting passes to Jesus by the stron
 instrument the culture had. On this reading the genealogy is not embarrassed by verse 18 at all.
 It is completed by it.
 
-I want to concede how much force that has, and how little standing I have to wave it off. Adoption
+That has real force, and I have little standing to wave it off. Adoption
 is not a technicality in this tradition or in this publication. I have argued at length, in
 [*In the Name (The Ambassador)*](https://elmuffin.substack.com/p/in-the-name-the-ambassador), that
 the deepest thing the gospel offers is exactly an adoption — a name received rather than earned, a
@@ -246,7 +246,7 @@ studying with brahmins and Buddhists, and that He came home carrying practices H
 there. It is a beautiful story and it has been believed by serious people, and I have wanted it to
 be true.
 
-Let me concede everything in it that is true, because a fair amount is. The years really are blank;
+Everything in it that is true is conceded, and a fair amount is true. The years really are blank;
 no one is inventing the gap. And the geography is not absurd. Three centuries before Jesus, Ashoka
 had sent envoys west and named the Hellenistic kings he sent them to, in an inscription carved into
 rock.[^ashoka] Within the same century, ships were running the monsoon route between Egypt and the coast of
@@ -297,7 +297,7 @@ And here is the part that settles it for me. I do not need the story. Nobody doe
 He accomplished required a curriculum only obtainable four thousand miles from Galilee, then
 *follow Me* was addressed to almost no one who has ever lived. The reason to let the India story go
 is not merely that its evidence collapses under a single visit to Hemis. It is that it does the
-same damage as the doctrine this essay is taking down, and does it in the same place.
+same damage as the doctrine being taken down, and does it in the same place.
 
 ## VI. What was left
 
@@ -311,7 +311,7 @@ anyone who does it. Not a hybrid. Not a being made half of one substance and hal
 requiring an unusual conception to fuse them. A man who emptied out and did not fill back up.
 
 I'm not going to re-derive that here; the argument for it lives in that essay and this one is not
-a repeat of it. What this essay contributes is the removal of the last obstacle standing in front
+a repeat of it. What is added here is the removal of the last obstacle standing in front
 of it, which is the idea that His divinity was a fact about His genetics.
 
 What I do want to put on the page is the evidence that persuades me, which is not philosophical at
@@ -327,7 +327,7 @@ Sit with that last one. It is a strange sentence for a demigod to say, and an en
 sentence for an emptied man to say. It is also, as it happens, the sentence this whole publication
 is named after.
 
-Let me state the uniqueness claim narrowly, because the wide versions of it are false and I have
+The uniqueness claim, stated narrowly — the wide versions of it are false and I have
 argued against them myself. It is not that He alone loved God; people have loved God magnificently
 in every tradition and every century, and I came to God through devotional chanting in a language I
 did not speak. It is not that the God He pointed to was unavailable elsewhere. It is something more
@@ -358,7 +358,7 @@ I have been circling it for six movements and I should say it in the open.
 
 The Apostles' Creed: *conceived by the Holy Ghost, born of the Virgin Mary.* The Nicene: *incarnate
 by the Holy Ghost of the Virgin Mary.*[^creeds] I do not believe that clause. I am not going to
-pretend this essay has been doing anything other than removing it, and I am not going to hide the
+pretend I have been doing anything other than removing it, and I am not going to hide the
 removal inside implication and let a reader discover it later and feel handled.
 
 Two concessions first, and I mean both of them.

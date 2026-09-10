@@ -1,7 +1,6 @@
 ---
 slug: where-the-timelines-agree
 title: Where the Timelines Agree
-source_slug: forking-paths
 subtitle: You cannot feel the fork and you cannot steer between histories. What survives is not the route
   that scores highest — it is the one its neighbors agree with, and someone has already walked it.
 published_at: 2026-09-02
@@ -16,7 +15,7 @@ hero:
     and one solid figure standing on the single lit path that runs to the sunrise
   width: 1484
   height: 1060
-digest: sha256:aadb6d2dc2238e25f97e3b56fad9113c10081452677eef27d1d00995cf2638ad
+digest: sha256:0ff667cb414d795250a7b4137bba723442f0c6dbe0a8f2b1818c039714882386
 ---
 
 ## I. The Fork You Did Not Notice
@@ -26,7 +25,7 @@ standing on a mountain range at night; you could not see the range and did not k
 was highest, but the slope under your two feet was real information, honestly delivered. *Up, right
 here* was at least something.
 
-This essay takes that ground away, and it does it with a sentence you have said a hundred times
+That ground comes away here, and it does it with a sentence you have said a hundred times
 without meaning much by it: **things could have gone otherwise.**
 
 Take it literally, for the length of an essay. Not as a wistful remark about a decision you regret
@@ -112,8 +111,8 @@ same move twice.
 
 ## II. The Index That Is Not a Direction
 
-The picture §I asked you to hold needs one turn of precision, because the rest of the essay leans on
-it and it is easy to smuggle.
+The picture §I asked you to hold needs one turn of precision, because what follows leans on it
+and it is easy to smuggle.
 
 A set of histories, each of them a whole world running its own course, and each one carrying a
 label. That is the whole construction: not a new
@@ -155,7 +154,7 @@ into a preferable one, and no method that could find one.
 
 That is a claim about **routes**. It is not a claim about what fixes a person to a history in the
 first place, and it is not the claim that nothing whatsoever could ever put you in a different one.
-Those are different questions, and real ones, and this essay does not touch them.
+Those are different questions, and real ones, and they are not touched here.
 
 When I say *which history you are in*, I'm treating that as a fact about the world and not about
 you — as though two people could stand in the same history, read it in completely opposite ways, and
@@ -204,7 +203,7 @@ and a reader entitled to check should know which English text is being checked.
 
 ## III. All the Paths, and Why You See One
 
-Here is the movement the whole essay is built to reach, and it begins with a correction.
+Here is the movement everything above was built to reach, and it begins with a correction.
 
 The companion leaned on Fermat's principle: light takes what physicists call the **extremal**
 path — the route fixed by the whole journey rather than groped out a step at a time. It is a
@@ -297,7 +296,7 @@ own formulation, not a softening of it.
 
 ## IV. Why It Was Never a Rulebook
 
-Two things fall out of that sentence, and the rest of the essay lives on both.
+Two things fall out of that sentence, and everything after lives on both.
 
 **The first is the companion's thesis, said once more and better.** A rule is a verdict on an act:
 a number attached to a point. **A condition of agreement is a property of a whole route**, and
@@ -393,7 +392,7 @@ have ever been and the summit is not in view. Said about whole histories, the sa
 and larger. **The ideal timeline runs through stretches that any honest accounting of the moment
 would score as losses.** Not as a mystery. As a consequence of what agreement over a whole is.
 
-**The second support is the one this essay is here to add.** It is not that your sense of things is
+**The second support is the one being added here.** It is not that your sense of things is
 unreliable. It is that **the criterion has no local form at all.**
 
 Go back to the arrows. There is no answer to the question *how is this route doing, here?* The
@@ -413,7 +412,7 @@ the route, at a moment that reads as total loss.
 
 No one has ever been more on the path than the man in that tomb.
 
-Now the limit, and it is the whole difference between this essay and a cruelty.
+Now the limit, and it is the whole difference between this and a cruelty.
 
 **This is not the promise that it will look good later.** That is the tidy theodicy — the neat
 reason, the redemptive arc handed to someone who did not ask for one — and the companion declined
@@ -424,8 +423,8 @@ Neither reading.
 Which is also how this squares with what I have already published, and I'd rather square it in
 the open than hope nobody checks. [*Flow*](https://elmuffin.substack.com/p/flow) argued that the
 decisionless state is neither good nor bad in itself: neither how it feels nor how it turns out is
-a readout of whether you are where you should be. This essay must therefore refuse the inference in
-**both** directions, and does. A terrible stretch does not prove you strayed. A beautiful one does
+a readout of whether you are where you should be. So the inference is refused in **both**
+directions. A terrible stretch does not prove you strayed. A beautiful one does
 not prove you were led.
 
 [^bellman]: Richard Bellman, *Dynamic Programming* (Princeton, 1957), p. 83 — the **principle of
@@ -466,7 +465,7 @@ place they will never be, and it does not reach them, and it was never going to.
 count of histories is not a moral theory. This is not a subtle point. It is the difference between
 arithmetic and a person.
 
-**And this essay's own mathematics forbids it.** The index is not a direction. There is nowhere you
+**And the mathematics above forbids it.** The index is not a direction. There is nowhere you
 can be sent and nothing that can be shipped back. Whatever else is true of the other histories,
 they are not addresses and they are not consolations. Nothing is going to arrive from one, and
 nothing you do will reach one. That histories can come back together — which is where §VII ends —
@@ -537,7 +536,7 @@ which is where this refusal properly lives. The one-word answer in John 9:3 is *
 
 [^chiang]: Ted Chiang, "Story of Your Life," collected in *Stories of Your Life and Others*
 (Vintage) — quoted and located at p. 118 in *The Highest Peak* §IX. The body here **paraphrases and does not quote**, which is the cleaner arrangement: the
-companion owns the quotation, this essay owns one clause of the idea, and there is no second
+companion owns the quotation, this one owns a single clause of the idea, and there is no second
 pagination to keep in step.
 
 ---
@@ -609,7 +608,7 @@ it does not turn you. **Anything you could hand to somebody in grief is not that
 §VI's first cruelty, wearing better clothes.
 
 And if anything ever takes a person out of the history they are in and into a better one — nothing
-in this essay establishes that, and I am not going to pretend otherwise on the last page — **it
+here establishes that, and I am not going to pretend otherwise on the last page — **it
 could only have one shape.** Not a heading held. An emptying, a guide accepted, and the arriving
 given rather than got. Which is why steering runs a life aground and surrender does not, and why
 the one motion that might be real is the one nobody can perform on purpose. **You cannot aim at

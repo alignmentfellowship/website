@@ -14,7 +14,7 @@ hero:
     on the sidewalk reads Find your perfect match as a man walks past at sunset
   width: 1536
   height: 917
-digest: sha256:1825be4d8564087f247207aca120f96799fe6a663ccf17e7e2ef2600dd017bc0
+digest: sha256:0edb505b6ffd284a081d9cec9d18d5ac43a8506805783e7c1c039b4fb4c14984
 ---
 
 ## I. The Profile
@@ -31,8 +31,8 @@ profile was too honest. Not raw, not confessional — honest in a way the medium
 reward. A profile that means to cast a wide net says the things that a wide net catches, and I
 had stopped being able to say them. I know how I read to a stranger scrolling past: like a
 person who has come loose from something everyone else is still holding on to. And it is also
-possible — I want to leave this on the table and not spiritualize it away — that I am simply
-not what most people are looking for. Both of those can be true. Neither one is the interesting
+possible — and it stays on the table, unspiritualized — that I am simply not what most people
+are looking for. Both of those can be true. Neither one is the interesting
 part.
 
 The interesting part is what a dating app actually is, and what it asks you to become in order
@@ -73,8 +73,8 @@ So in my last week on the platforms, I stopped trying. I mean I genuinely stoppe
 came out when the trying stopped was not despair but comedy. I sent absurd things. Jokes with no
 angle. Audacious, unsolicited calls to self-empowerment fired off to women I found interesting,
 as if I were a motivational poster that had gained the power of speech. I was not doing it to
-win; I had given up winning, which is precisely why I could do it. And I want to be careful not
-to dress that up as strategy in retrospect — it worked no better than the earnest version. But
+win; I had given up winning, which is precisely why I could do it. That is not strategy dressed
+up in retrospect — it worked no better than the earnest version. But
 it was the first honest thing I had done on there, because it came from a man who was no longer
 trying to *get* anyone. A person who has stopped reaching can, at last, simply play. That the
 playing produced nothing the market recognizes is not a failure of the playing. It is the whole
@@ -88,8 +88,7 @@ in my mind — but it is not the question the app trained. It is not *how do I g
 quieter and stranger than that: *maybe she is for me.* Maybe. I do not know. And because I do
 not know, I do not move.
 
-That not-moving is the whole essay in a single reflex, so let me be precise about what it is and
-what it is not. It is not fear, and it is not a technique for seeming mysterious. It is that I
+That not-moving is the whole essay in a single reflex. What it is, and what it is not. It is not fear, and it is not a technique for seeming mysterious. It is that I
 have come to believe there is a line between two entirely different postures toward another
 person, and I can feel exactly where it runs. On one side is *wanting to get* — the reach, the
 close, the securing of a thing before it slips. On the other side is *waiting to be given* — the
@@ -117,8 +116,8 @@ case I let the question *maybe she is for me* harden into a move before I had an
 believing the answer was yes. I crossed from wondering into wanting-to-get, and I acted on the
 wanting, and it was wrong.
 
-I want to be careful here in the other direction, too — not to flog myself for it as though the
-reaching were monstrous. It was not monstrous. It was ordinary. It is the most ordinary thing a
+Careful in the other direction, too — no flogging myself for it as though the reaching were
+monstrous. It was not monstrous. It was ordinary. It is the most ordinary thing a
 person does. But ordinary is exactly the point: the pull to secure the good thing before it can
 get away is so native to us that we do not even register it as a decision. We call it following
 our heart. I have learned to call it crossing a line, because I can now feel the specific
@@ -155,8 +154,7 @@ tragedy of the older brother is not that he sinned. It is that he lived as a hir
 house he owned, asking for one goat, standing in his inheritance.
 
 I do not think this means the loved person is already secretly mine, waiting to be claimed —
-that would just be acquisition with a halo on it, and I want to be careful not to swap one
-grasping for another. It means something stranger and less flattering to me. It means that what
+that would just be acquisition with a halo on it, one grasping swapped for another. It means something stranger and less flattering to me. It means that what
 is *for* me is not scarce in the way the market insisted, and cannot be secured by speed, and
 will not be missed by patience. The manna in the wilderness fell fresh every morning and could
 not be hoarded; the portions kept overnight against tomorrow's fear bred worms and stank.[^4]
@@ -170,8 +168,7 @@ I can hear the obvious objection, because I have made it myself in a harder seas
 very serene thing to say from the comfortable side of loneliness. *Wait on the LORD* is exactly
 what a person tells themselves when nothing is happening and they need the nothing to mean something.
 I concede the danger completely. There is a passivity that hides inside spiritual language and
-calls its own fear *surrender.* So let me draw the distinction sharply enough that it can be
-checked. Patience is not the absence of action; it is the refusal to grab what has not been
+calls its own fear *surrender.* The distinction has to be sharp enough to check. Patience is not the absence of action; it is the refusal to grab what has not been
 given. It is not doing nothing. It is doing everything except the one thing — the reach — that
 would prove I never trusted the introduction was coming at all.
 

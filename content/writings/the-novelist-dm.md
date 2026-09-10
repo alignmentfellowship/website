@@ -1,7 +1,6 @@
 ---
 slug: the-novelist-dm
 title: The Novelist DM
-source_slug: the-dreamer
 subtitle: You are not the author. That is the good news.
 published_at: 2026-08-26
 footnotes: native
@@ -16,7 +15,7 @@ hero:
     along a road
   width: 1536
   height: 1024
-digest: sha256:7e485ffb13b2ec04e288770d47a23242ec65342f3681bfe3b43233661781c513
+digest: sha256:a2d7909e6babcdccb11ebbabc0851a415a8289121887b06bd7faef6f0aa55550
 ---
 
 ## I. The Dream You Almost Woke From
@@ -35,7 +34,7 @@ wearing ten thousand shapes and calling them a world, and while you were under i
 real. That is the gift of the dream: proof, from the inside, that a reality can be entire, and
 convincing, and made of mind alone.
 
-Now the dream will try to teach you something false, and it is the thing this essay exists to
+Now the dream will try to teach you something false, and it is the thing everything here exists to
 undo. In your dream, the mind it is all made of is yours. So the dream whispers that to wake all the
 way up would be to find that you, at the center, were the maker of it the whole time — that you are
 God, and never knew. Set that whisper down. Keep the experience and drop the conclusion. It is the
@@ -68,7 +67,7 @@ tale.
 
 So you are a character in a novel and a player at that table at once: made wholly by the teller's
 mind, and genuinely free inside it; written, and choosing. That doubled figure — the Novelist DM,
-one Mind wearing both — is the image of God this essay will keep. This Novelist DM has a name the
+one Mind wearing both — is the image of God to keep. This Novelist DM has a name the
 tradition has circled for three thousand years.
 
 ## II. Take the Two Words Literally
@@ -129,7 +128,7 @@ rope taken in the dusk for a snake: the snake was never there, and the fear was 
 die of a snake that does not exist. The story is not nothing; it is the real, world-making telling
 of a mind that is more than it. You are a character in it, made by it, right now.
 
-Which leaves the question the rest of this essay lives inside. If the world is a story, and its
+Which leaves the question everything after lives inside. If the world is a story, and its
 teller is God, and there is nothing outside God — then who, exactly, is the character so sure that they
 are the one holding the pen?
 
@@ -140,7 +139,7 @@ A character who has forgotten they are written.
 Go back into the lucid dream, but this time don't wake. Stay a character. There you are, the figure
 crossing the room — bounded by your skin, wary of the stranger, certain past all argument that the
 world is out there and you are in here. Most of that is true. You *are* one figure. You were written
-as one, on purpose, with one face and one address, and nothing in this essay is going to talk you out
+as one, on purpose, with one face and one address, and nothing here is going to talk you out
 of it. What is false is smaller and more total than that: the certainty that the figure is its own,
 that it stands on its own power on its own ground, that nobody is writing it. The character is real.
 The wall it has built around itself, the one that says *mine* — that is the part that was never
@@ -375,7 +374,7 @@ while several persons are at the same time calling for different things, I posse
 tranquillity as if I were upon my knees at the Blessed Sacrament.*[^kitchen] He failed constantly,
 and when he did he told God so and *gave himself no further uneasiness about it*.[^fail] He said
 there needed *neither art nor science for going to GOD, but only a heart resolutely determined to
-apply itself to nothing but Him*.[^art] And he said the whole of this essay in a sentence a cook could
+apply itself to nothing but Him*.[^art] And he said the whole of it in a sentence a cook could
 say: *I began to live as if there was none but He and I in the world.*[^none]
 
 That man was not seeing through the kitchen. He was not trying to
@@ -385,7 +384,7 @@ telling it, and he never tried to become Him. That is what it looks like to stay
 
 Because there are two things you can do, once you know whose story you are in, and only one of them
 was ever asked of you. You can try to wake — thin the character out, dissolve the figure, find the
-one who was doing the dreaming. Whole traditions are careful maps of that road, and it is not what He
+One who was doing the dreaming. Whole traditions are careful maps of that road, and it is not what He
 did. The other thing you can do is what the cook did. Stay in the story with your eyes open. Let the
 stranger keep their face and the mountain keep its weight. Love them not as pieces of yourself but as
 His — the same light poured through them that was poured through you, into rooms you cannot see from

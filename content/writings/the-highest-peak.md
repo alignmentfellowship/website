@@ -1,7 +1,6 @@
 ---
 slug: the-highest-peak
 title: The Highest Peak
-source_slug: the-optimal-timeline
 subtitle: You do not have to be a Christian to follow Jesus.
 published_at: 2026-08-27
 footnotes: native
@@ -15,12 +14,12 @@ hero:
     ahead of him into the range
   width: 1492
   height: 1054
-digest: sha256:fb56786ec14e879ad77c75cc59e06ab411b60f311b0b18616ce86bd1692f3e93
+digest: sha256:9eeeeca372ae966e3b52b594b56226bfdb220b7fa5d734a75027030801494193
 ---
 
 ## I. The Range in the Dark
 
-Start here, because everything in this essay is a consequence of it.
+Start here, because everything that follows is a consequence of it.
 
 You are standing on a mountain range at night. Not looking at one — standing on it, at one
 spot, in a body. There are other people out there. You can hear some of them; a few are close
@@ -49,7 +48,7 @@ the world.
 metaphorically — that is what it is to live among other people whose lives are made of each
 other. A summit rises because someone on the far side did something generous at four in the
 morning; another settles because of a decision in a room you will never enter. The peak that
-was to your east an hour ago may now be to your west, and it was moved by strangers.
+was to your east an hour ago *may now be to your west*, and it was moved by strangers.
 
 And there is one more turn of the screw, and it is the one that should take the wind out of
 anybody. **The peak you have been climbing toward may never have been the highest.** Not
@@ -106,7 +105,7 @@ And then He keeps walking, which is the part people forget. He is not standing a
 gesturing down a road He has no intention of taking. He is on it. Whatever is up ahead, He
 gets there first.
 
-Three things are true about that, and the rest of this essay leans on all three.
+Three things are true about that, and the argument leans on all three.
 
 The first: there *is* a route, and He knows the whole of it — the range, the far side of it,
 the way the heights are moving while we argue about them, and every way they would move under
@@ -206,8 +205,8 @@ line of them, the strangest of the set, in which the road stops being a road at 
 *I am the way.*[^5]
 
 The tradition's vocabulary for what God wants is overwhelmingly the vocabulary of navigation —
-way, path, steps, gate, walk, follow, lead. I want to propose that the legal language is the
-flourish, and the road is the fact.
+way, path, steps, gate, walk, follow, lead. The legal language is the flourish; the road is
+the fact.
 
 Because here is what a rulebook is. **A rulebook is what a route looks like to somebody who
 cannot see the terrain.**
@@ -273,8 +272,8 @@ that He was the one in the prison arrives *after* the verdict, as news.
 And it is not an isolated verse, which is what would make it easy to wave off. The same claim
 is made, in different keys, all over the same gospel.
 
-*Not every one that saith unto me, LORD, LORD, shall enter into the kingdom of heaven; but he
-that doeth the will of my Father which is in heaven.*[^lordlord] That is as flat a statement as exists on the
+*Not every one that saith unto Me, LORD, LORD, shall enter into the kingdom of heaven; but he
+that doeth the will of My Father which is in heaven.*[^lordlord] That is as flat a statement as exists on the
 subject, and it is aimed squarely at people who have the vocabulary right.
 
 Then the two sons: one is told to go and work, says *I will not*, and goes; the other says *I
@@ -313,10 +312,10 @@ were worried about does not exist.**
 of these my brethren* is genuinely contested: many read it as the poor and suffering
 generally, while a substantial line of interpretation restricts it to Christian missionaries
 or the persecuted church — and that narrower reading would blunt the use I am making of the
-passage. I have not resolved it and do not need to. **The load-bearing detail here is the
+passage. I have not resolved it and do not need to. **The detail that carries this is the
 mutual ignorance of both groups, and that survives either reading.**
 
-[^lordlord]: Matthew 7:21.
+[^lordlord]: Matthew 7:21. (The Son's pronouns are capitalized here per house convention; the King James lowercases them. Casing is not substitution and is not bracketed.)
 
 [^twosons]: Matthew 21:28–31.
 
@@ -349,15 +348,13 @@ every trade-off already made. There is a name for that in the disciplines that s
 days on such things. It is a solution to an optimization problem: the configuration that does
 the most good and the least harm, out of all the configurations there could be.
 
-I am aware of what that sentence sounds like, and I will come back and defend its limits
-before this section ends. But first I want to put down beside it the most exact description
-of *what it would be like to see from there* that I know of, which was not written by a
-theologian and was not trying to help me.
+Set beside it the most exact description of *what it would be like to see from there* that I
+know of, which was not written by a theologian and was not trying to help me.
 
 In Ted Chiang's *Story of Your Life*, a linguist named Louise Banks learns the written
 language of an alien species and, in learning it, begins to acquire the mode of consciousness
 that produced it. Chiang's account of the difference between their minds and ours is the
-cleanest statement of this essay's whole problem, and it is two sentences long:
+cleanest statement of the whole problem, and it is two sentences long:
 
 > Humans had developed a sequential mode of awareness, while heptapods had developed a
 > simultaneous mode of awareness. We experienced events in an order, and perceived their
@@ -388,7 +385,7 @@ almost every physical law we have can be restated this way.[^12]
 Take that correction for exactly what it is worth. It does not tell us anything about
 suffering — an *extremum* in a physicist's sense is a mathematical property of a functional,
 not a synonym for *extreme* in the sense of harsh, and an essay that let those two words shake
-hands would be winning by a pun. What it buys is narrower and better: a whole route can be
+hands would be winning by a pun. What it buys is narrower and better: **a** whole route can be
 fixed by a condition on the whole, and the tidy story where a path is the sum of its little
 local steps is not the only story physics knows how to tell.
 
@@ -414,7 +411,7 @@ hand.
 
 [^7]: 2 Peter 3:9.
 
-[^8]: Romans 8:28. The textual question here is real and this essay leans on the verse, so it
+[^8]: Romans 8:28. The textual question here is real and the argument leans on the verse, so it
 should be visible: some early witnesses read *ho theos synergei* — "God works all things
 together for good" — rather than the KJV's "all things work together for good," which moves
 the agent from the things to God. Modern translations split accordingly. Either reading serves
@@ -494,13 +491,12 @@ stationary target at least has a target. Ours is being carried.
 
 Which is why the maps go stale, and why that is nobody's fault. A map is a record of where the
 heights stood when a careful person was standing somewhere else, some time ago, and no degree
-of rigor immunizes it against the movement of people its author never heard of. That does not
+of rigor immunizes it against the movement of people its author never heard of. That does *not*
 make the maps worthless; the ones we have were made at cost by people who were not fools. It
 licenses one thing only — **the map is not the guide.**
 
-**Third: the trap is not what you think.** Here is where I want to be exact rather than vivid,
-because the vivid version of this is slightly wrong and I have watched the wrong version do
-damage. The usual picture is a *trap*
+**Third: the trap is not what you think.** The vivid version of this is slightly wrong, and I
+have watched the wrong version do damage. The usual picture is a *trap*
 — a little summit you get stranded on, a local maximum, everyone's favorite metaphor for a
 rut. In a range of very high dimension, which is the only kind a real life is, that is rarely
 what happens. There are so many directions available that a true peak — a place where *every
@@ -523,8 +519,7 @@ It does not feel like failure from the inside of the climb. It feels like arriva
 the part worth carrying into a discussion of the will of God: *the local view cannot tell the
 difference between the summit and a high place.*
 
-Let me keep the claim small enough to hold, because the large version is false and I do not
-need it. I'm not saying the problem is unsolvable — I'm saying the opposite; §IV said the
+The large version of the claim is false, and I do not need it. I'm not saying the problem is unsolvable — I'm saying the opposite; §IV said the
 opposite. I'm not saying God has a hard time. I am saying that a *local* method has no access
 to *global* structure, and that when the structure is also **moving, and moving because of the
 other local methods**, the gap does not close with effort. The slope at your feet is real
@@ -563,8 +558,7 @@ function.
 [^down]: I have argued the theological version of this at length elsewhere — that the route
 home runs downward, through the giving up of height rather than the gaining of it, and that
 this is the one direction no instinct recommends. [*The Way Home Is Down*](https://elmuffin.substack.com/p/the-way-home-is-down) (*Being Good*, 2026).
-I want to be careful about the direction of the debt: the geometry does not prove the
-doctrine. A model that produced the opposite result would not have refuted anything, and I
+The direction of the debt matters: the geometry does not prove the doctrine. A model that produced the opposite result would not have refuted anything, and I
 would have kept the doctrine and dropped the model. What is worth noticing is only that the
 descent is not an ascetic flourish laid on top of an otherwise sensible account of how to get
 somewhere — it falls out of what the terrain is like.
@@ -648,17 +642,15 @@ come at one volume. Sometimes it is so quiet that it is indistinguishable, in th
 your own second thoughts — and can be dismissed as such, and usually is. Sometimes it is not
 quiet at all. Lewis wrote that God "whispers to us in our pleasures, speaks in our conscience,
 but shouts in our pain: it is His megaphone to rouse a deaf world" — a line that has comforted
-a great many people and cost a great many others, so I want to hold it at arm's length even
-while I use it.[^lewis] What I will say is only this: the volume is not the
+a great many people and cost a great many others.[^lewis] The volume is not the
 message. A thing said at a scream is the same two words that were said at a whisper, and it is
 never a verdict on the one hearing it. §VIII refuses that reading at length, because it is the
 way this entire picture turns cruel.
 
-Now the guardrail, and I want to put it in the body of the essay rather than let it hide in a
-footnote, because it is the point at which this kind of writing usually goes bad.
+This is the point at which this kind of writing usually goes bad.
 
 I'm not going to tell you how to discern the will of God. Not because it would be immodest,
-but because the attempt is self-defeating in a way this essay has already diagnosed. A
+but because the attempt is self-defeating in a way the argument has already diagnosed. A
 *technique* for reading Him is a claim to have gotten above the range. It is the
 local view promoting itself to the global one. Every method I have ever been offered for
 working out God's will has had, at its bottom, the assumption that with the right procedure I
@@ -733,8 +725,7 @@ The text does not editorialize; it just lays the two numbers next to each other 
 do the arithmetic, and the arithmetic includes a generation that died in the flat country
 between them.
 
-So: is wandering the sin? No — and getting this wrong is how the doctrine turns cruel, so let
-me be exact.
+So: is wandering the sin? No — and getting this wrong is how the doctrine turns cruel.
 
 Not knowing is not the sin. We have established that not knowing is *the condition*: a part
 cannot see the whole, and no amount of virtue converts a local view into a global one. And
@@ -781,16 +772,14 @@ rather hand over the weapon myself and break it in front of you.
 the path.* And its second, worse form, the one that gets said out loud in hospital corridors
 by people who mean well: *if their suffering is that bad, what did they do?*
 
-That does not follow. I want to say it in the flattest possible sentence, because this is not
-a place for elegance. *Deviation causes suffering* does not entail *suffering implies
+That does not follow. *Deviation causes suffering* does not entail *suffering implies
 deviation.* One is a claim about a road; the other is a verdict on a person; and the second
 is not contained in the first by any rule of inference anyone has ever had. Suffering has
 many sources. Straying is one of them. Somebody else's straying is another — that was §VII's
 whole point, and the sailors were innocent. And a great deal of it has no traceable source at
 all, which is a fact about the world and not a gap in someone's righteousness.
 
-And this is where I want to point out something remarkable about the tradition I am arguing
-from, which is that it does not merely leave room for this correction. It stages the
+The tradition I am arguing from does not merely leave room for this correction. It stages the
 correction twice, at maximum volume, at two of its most conspicuous moments.
 
 The book of Job is a long argument between a suffering man and three friends who hold exactly
@@ -809,14 +798,12 @@ And this is where I owe §VI its debt, because the image I have been using can b
 the same weapon with one twist of the wrist. If He sometimes has to raise His voice, and if a
 life can be emptied onto the floor, then it is a very short step to *your catastrophe was
 addressed to you* — and from there to reading a stranger's ruin as correspondence you are
-entitled to interpret. I want to refuse that in the same flat words. **The volume is not the
-message.** A thing said at a scream is the same two words that were said at a whisper; it is
+entitled to interpret. **The volume is not the message.** A thing said at a scream is the same two words that were said at a whisper; it is
 never a different instruction, and it is never a verdict on the one hearing it. And the fact
 that a person is in a hard place is not evidence that they were shouted at, any more than it
 is evidence that they strayed.
 
-So let me say what this essay does not license, plainly enough that it cannot be lifted out
-of context. Nothing here permits you to look at a suffering person and read their route off
+Nothing here permits you to look at a suffering person and read their route off
 their pain. Not their route, not their obedience, not their standing, and not what God is
 supposedly saying to them. The inference is unavailable to us, and the two places our own
 scripture puts it in someone's mouth are the two places it is condemned. If you take one thing
@@ -836,7 +823,7 @@ gone wrong. Nothing in "best for everyone, forever" contains a promise that it w
 pleasant for me, this year, in the ways I can currently perceive. The objective was never my
 comfort; it was never even, particularly, my outcome.
 
-And the psalm this essay borrowed its road from does not stop at the road. *He leadeth me in
+And the psalm the road came from does not stop at the road. *He leadeth me in
 the paths of righteousness* — and then, in the very next breath, *yea, though I walk through
 the valley of the shadow of death, I will fear no evil: for thou art with me.*[^valley] Notice
 what is not offered. Not a way around the valley. Not an explanation of it. Not even a
@@ -866,19 +853,18 @@ back to straying*; here I refuse the same one run forward, from **how a road cam
 route. So can a pew. Being unable to read the one off the other is not a defect in the
 account — it is the account.
 
-**And the third objection is the one I am going to decline to answer**, which I owe you an
-account of rather than a dodge.
+**And the third objection I am going to decline to answer.**
 
 *Fine — then why this? Why this particular wound, this child, this diagnosis, this year?*
 
-I don't know, and I am not going to build you a reason. This essay claims a *shape*, not a
+I don't know, and I am not going to build you a reason. The claim is a *shape*, not a
 *content*: that a solution exists, that it is held whole by Someone who is not walking, and
 that a part inside it cannot see the shape from where it stands. Every one of those claims is
 about structure. None of them entitles me to stand over a specific grief and explain what it
 was *for*, and the fact that my framework could be used to generate such an explanation is
 not a license to generate one. It is a reason for restraint. The demand that the range
 justify itself in terms a walker can audit is, one more time, the local view claiming a
-global privilege — and I would rather leave the space empty than fill it with something
+global privilege — and I would rather leave it empty than fill it with something
 comforting and made up.
 
 What I can do is end the section where Chiang ends his story, because he arrives at the same
@@ -904,8 +890,7 @@ Some renderings make God the author of it, which I do not want and do not need. 
 here rests on the first word, and only on it:** *Neither.*
 
 [^valley]: Psalm 23:4 (KJV), the verse immediately after the one §II leaned on (23:3). The
-sequence in the psalm is the sequence of this essay, and I did not arrange it: leading, then
-the valley, then the presence. On the Hebrew *tsalmaveth*: the traditional "shadow of death"
+order is the psalm's, not mine: leading, then the valley, then the presence. On the Hebrew *tsalmaveth*: the traditional "shadow of death"
 is contested, and many modern translators prefer "deep darkness." Nothing in the argument
 turns on the darker reading, and it does not lean on it.
 
@@ -978,8 +963,8 @@ space is genuinely less satisfying than the machine.
 
 What survives the taking-down is smaller, and older, and harder to hold. You cannot see the
 range. You get one step of lamp. And the way, when the tradition finally stops calling it a
-way, turns out never to have been a route at all — which is why every image in this essay had
-to come down and He did not. *I am the way* is not a man claiming to know the road. It is a
+way, turns out never to have been a route at all — which is why every image here had to come
+down and He did not. *I am the way* is not a man claiming to know the road. It is a
 man saying there isn't one, apart from Him.
 
 So: the road, and the man a few steps ahead on it.

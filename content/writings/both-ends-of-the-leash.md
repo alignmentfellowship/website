@@ -1,7 +1,6 @@
 ---
 slug: both-ends-of-the-leash
 title: Both Ends of the Leash
-source_slug: dog-training-separate-self
 subtitle: There is a careful body of knowledge about living with an intelligent animal who cannot be reasoned
   with. Almost none of it resembles what we were taught about God.
 published_at: 2026-09-01
@@ -16,7 +15,7 @@ hero:
     running from him up into the storm clouds above
   width: 1536
   height: 1024
-digest: sha256:566f1310897f1c4c745f67ccb350dd787f8701ced98608be20265f7b3bdc32a4
+digest: sha256:5c2551d2c9fdf7ef3992c9fd709a1019838a835dce9fe47d41172014bb642f56
 ---
 
 ## I. Nobody complains about a dumb dog
@@ -35,7 +34,7 @@ arranged house sheds on the couch. A brilliant one in the same house learns your
 which rules are enforced and which are only announced, and learns that the rule about the couch
 holds on Saturday morning and dissolves on the evening you come home wrecked.
 
-This essay is about that animal, and the arrangement is not the flattering one. You are not the
+That animal is the subject, and the arrangement is not the flattering one. You are not the
 handler here. You're the dog. So am I. Every one of us who wakes up in the morning as a self — sealed in
 one skin, looking out through two eyes, doing the day's arithmetic about what we need and how to
 get it — is the clever animal in the house. And God is on the other end of the leash.
@@ -224,7 +223,7 @@ suppresses, the fallout arrives, and what's learned stays tied to the conditions
 came in. That's the honest shape of the finding and it's enough; I don't need the folk version
 where the dog is scheming.
 
-I got this wrong myself, in exactly the direction this essay is arguing against, with an animal
+I got this wrong myself, in exactly the direction argued against here, with an animal
 somebody else had already hurt. My first instinct with Pickle was sternness. He'd come to me
 frightened of everything, including a ball thrown for him, which he took to be a ball thrown *at*
 him — and I met that with a firm voice, because I thought that was what training was. It terrified
@@ -291,7 +290,7 @@ needs one.*
 
 Which sends me back to the hard verse with different eyes. *If any man will come after Me, let him
 deny himself, and take up his cross **daily**, and follow Me.*[^daily] The adverb is the whole
-tell, and I don't know how I read past it for as many years as I di*d*. An execution does not
+tell, and I don't know how I read past it for as many years as I did. An execution does not
 need repeating on Thursday. Whatever is being described there **recurs** — which means it is not a
 killing. It's a practice: the daily arrangement of a life around something other than the
 creature's own comfort, done again tomorrow because it was done today. That is a description of
@@ -321,7 +320,7 @@ was never a dogless house — no more than a trained dog is a dog with the drive
 gets trained is the same animal with the same nose and the same appetites and the same opinions
 about the mailman, inside a relationship that finally works.
 
-I owe you a seam here, because I've argued something that sounds like the opposite and someone is
+There is a seam here, because I've argued something that sounds like the opposite and someone is
 entitled to ask how both hold. In [*The Knowledge of Good and
 Evil*](https://elmuffin.substack.com/p/the-knowledge-of-good-and-evil) I argued that the
 separateness is a story — that the wall each of us feels around the self is an artifact of where
@@ -398,7 +397,7 @@ follows is a piece of reasoning. *Subtil* is the KJV spelling, not a modernizati
 
 [^paul]: "For the good that I would I do not: but the evil which I would not, that I do" — Romans
 7:19 (KJV); the passage runs 7:15–20. Paul does go on to distinguish himself from "sin that
-dwelleth in me" (7:20), which sounds like the division this essay denies. It is not the same
+dwelleth in me" (7:20), which sounds like the division denied here. It is not the same
 claim: what Paul reports is the absence of any *leverage* over it — the chapter ends at "who shall
 deliver me from the body of this death?" (7:24), not at a vantage from which he might have managed
 himself. The essay denies the vantage, not the experience of being divided.

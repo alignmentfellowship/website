@@ -1,7 +1,6 @@
 ---
 slug: the-sheep-in-the-basement
 title: The Sheep in the Basement
-source_slug: lord-lord
 subtitle: The church built a program to save its lost children, took His name off the door, and it did
   what the pews could not
 published_at: 2026-08-27
@@ -16,7 +15,7 @@ hero:
     AT A TIME sign on the wall, and a stairway climbing to a lit sanctuary with a cross'
   width: 1536
   height: 1024
-digest: sha256:4d8b29d747d8564fb7037bcf3c90854ddb16cc0f55e0a3ee1a4af5130d9a3aa3
+digest: sha256:49457f9f33d9f27fee46322112fac52b8ca13f32febabbc2181628a7a6308857
 ---
 
 ## I. The Line He Drew Himself
@@ -25,16 +24,16 @@ On Thursday mornings I sit in a room on the Upper West Side with a dozen or two 
 otherwise never have met, and we read to one another out of a book about how to become a parent to
 yourself.
 Then most of us say a few minutes about our week, or about the reading, and then we go back out into
-the city. I will tell you which room it is soon enough. First I want to tell you what I found when I
-went home from it and opened the Gospel — because the thing we practice in that room turns out to be
+the city. I will tell you which room it is soon enough. First, what I found when I went home from it
+and opened the Gospel — because the thing we practice in that room turns out to be
 the thing He set, in plain words, as the whole of the test.
 
 He drew the line Himself, and He drew it against the people with the right words.
 
 That is the part we skip. We imagine the judgment as a sorting of the confessors from the deniers —
 those who said the name into one field, those who refused it into the other — and then we read Him
-saying the opposite, in plain words, and we hurry past it. *Not every one that saith unto me, LORD,
-LORD, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in
+saying the opposite, in plain words, and we hurry past it. *Not every one that saith unto Me, LORD,
+LORD, shall enter into the kingdom of heaven; but he that doeth the will of My Father which is in
 heaven.*[^1] Read it slowly. The ones being turned away are not the atheists. They are the ones with
 His name in their mouths — *LORD, LORD*, said twice, said correctly, said to His face. And the thing
 that fails them is not that they got the name wrong. It is that the name was all they brought.
@@ -63,8 +62,7 @@ arrives in the name of a king, and it is what it means here. The men being turne
 and not the will, and a word without a will is not the name. It is the label on the outside of
 it. He said this in four different ways, in four different moods, and we have
 built two thousand years of institutions that quietly count the other thing — the saying, the badge,
-the roll. Which raises a question I want to hold open for the length of this essay, because I think
-the honest answer is not comfortable. If the criterion is a will actually turned toward God and spent
+the roll. Which raises a question worth holding open, and the honest answer to it is not comfortable. If the criterion is a will actually turned toward God and spent
 on the person in front of you — *where, right now, is that happening most reliably?* It has an
 address. I have been going there on Thursday mornings. It is not a church — as often as not, it's the
 basement of one.
@@ -94,8 +92,8 @@ insiders — and lands on them.
 [^4]: Matthew 25:31–46 (KJV), the judgment of the nations. Both the "sheep" and the "goats" ask the
 same astonished question — *when saw we thee?* — and the King's answer is the same to both: "Inasmuch
 as ye have done it unto one of the least of these my brethren, ye have done it unto me." The mutual
-ignorance is the hinge of the whole scene, and the load-bearing detail for this essay: the accepted
-did not know whom they were serving.
+ignorance is the hinge of the whole scene, and the detail everything here rests on: the accepted did
+not know whom they were serving.
 
 ---
 
@@ -131,8 +129,8 @@ little children, ye shall not enter into the kingdom of heaven.*[^7] And the arr
 is teaching — a parent who will not leave, taking the place of the one who did — has a name in
 Scripture older than any clinic. *When my father and my mother forsake me, then the LORD will take me
 up.*[^8] Hold that; I am not going to close it yet, because the program does not close it either. It
-says *your own* loving parent, and it means it, and the honesty of this essay depends on my not
-pretending otherwise. I only want to note, for now, that the room is standing at a doorway the Gospel
+says *your own* loving parent, and it means it, and I will not pretend otherwise. Note only, for
+now, that the room is standing at a doorway the Gospel
 also stands at, and calling it by a different name.
 
 None of this is unique to my Thursday room. It is one of more than two hundred fellowships — for
@@ -402,20 +400,19 @@ And now the part that keeps me honest: that slide appears to be slowing, maybe l
 share has held between sixty and sixty-four percent for several years now, and the growth of the nones has
 cooled.[^24] The sky is not falling. But the long trend is not in dispute, and neither is its direction.
 
-Here is the distinction the whole argument turns on, and it is easy to miss because we let three different
-things wear the same word. *Membership* is a name on a roll. *Affiliation* is what you tell a pollster you
+Here is the distinction, and it is easy to miss because we let three different things wear the same
+word. *Membership* is a name on a roll. *Affiliation* is what you tell a pollster you
 are. *Attendance* is whether you were actually in the building — and in a given week, that last one is around
 a third of adults, far below either of the others.[^25] A church counts the first two. It counts baptisms
 and confirmations and members-in-good-standing and the box you check on a survey. It counts, in other words,
 the *saying* — the very thing He warned would not, by itself, count for anything.
 
-Let me be as fair to the church as I know how to be, because I am not interested in the cheap version of
-this. For two thousand years the church has done what nothing else on earth has done at that scale: nursed
+The church deserves the fairest version of this, not the cheap one. For two thousand years the church has done what nothing else on earth has done at that scale: nursed
 the plague-sick when everyone else fled, built the hospitals and the universities, fed the hungry century
 after century, and kept alive — through every corruption of its own — a story about a God who comes down and
 dies for the least, and handed that story forward, intact, to anyone who would take it. Including to the man
 in the basement, and to me in the morning room. Neither of us got our program out of nowhere. We got it, at
-two removes, from the church. The pews are not the enemy of this essay and the saints are not its target.
+two removes, from the church. The pews are not the enemy here and the saints are not the target.
 
 But a roll of members is a roll of people who *said the name.* That is what it is built to record, and it
 records it faithfully, and it cannot tell you which of those names belongs to a turned will and which to a
@@ -467,8 +464,7 @@ principle is the same.)
 
 ## VI. Fruit, Not Bodies
 
-So let me say plainly what this essay is and is not claiming, because the loud version of the claim is false
-and I would rather retire it myself than have it retired for me.
+The loud version of the claim is false, and it is retired here before anyone else retires it.
 
 The loud version says: twelve-step recovery has brought more people to Jesus than the church has. As a count
 of bodies, that is not true, and no honest accounting makes it true. Global Christianity is more than two
@@ -503,15 +499,14 @@ turnings toward God in ninety years, more actual instances of the surrender He a
 rolls of the churches ever recorded, and that the rolls cannot even see the difference, because they were never
 built to measure the thing He said was the only thing that mattered.
 
-And here is where I want to be most careful, because an argument like this one goes bad the instant the gavel
-slips. The gavel does not fall on the faithful. It does not fall on the woman who has knelt in the same pew for
+An argument like this one goes bad the instant the gavel slips. The gavel does not fall on the faithful. It does not fall on the woman who has knelt in the same pew for
 fifty years and meant every word, or on the church as the body of the living Christ, which is the truest thing
 in the world and the source of the very story the rooms run on. The gavel falls on one thing only: the ancient,
 comfortable mistake of counting affiliation as discipleship — of looking at a full roll and a full parking lot
 and mistaking it for a harvest. That mistake is not the church. It is the idol the church keeps having to smash,
 and has since the day a man stood up and said *LORD, LORD* is not the password, and *doing the will* is.
 
-[^27]: There is no reliable global headcount for twelve-step recovery, and this essay does not invent one. Each
+[^27]: There is no reliable global headcount for twelve-step recovery, and none is invented here. Each
 fellowship reports a *self-reported count of meetings or groups*, not members, in different units that cannot be
 summed (A.A. ≈ two million members, self-reported, roughly flat since ~1990; Narcotics Anonymous ≈ 77,000 weekly
 meetings; Al-Anon ≈ 24,000 groups; ACA ≈ 2,700 meetings), and members routinely belong to more than one, so any
@@ -557,7 +552,7 @@ It simply was never the road of the right password.
 
 *This is just inner-child therapy — pop-psychology, self-help dressed in Scripture. Your program even tells you
 the loving parent is your own; you are re-parenting yourself, and there is no one on the other end.* This is the objection
-that has the most true in it, and I want to give it its due rather than dodge it, because the program does say
+that has the most true in it, and it is due more than a dodge, because the program does say
 *your own* loving parent, and it means it, and I will not pretend it says otherwise. But hold the caricature up
 against what actually happens over years. The tradition tells you to begin where you can stand to begin — as
 much of a parent as you can yet manage to be for yourself, the way A.A. tells the newcomer to begin with as much

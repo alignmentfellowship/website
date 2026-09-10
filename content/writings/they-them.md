@@ -14,7 +14,7 @@ hero:
     arm outstretched, with a broad white brushstroke struck across the eyes
   width: 1484
   height: 1060
-digest: sha256:6492f04372acb8a74dfaccd672ed7546186152d9844baa24171b6b8c917eeee4
+digest: sha256:5422d218995e1d7078303c66cf041652118fae4dece7f6ca7f4c9442363970f4
 ---
 
 ## I. The Picture No One Chose
@@ -215,7 +215,7 @@ receive a name. She confers one. The single human being in the five books who lo
 says *here is what I will call you* is an enslaved Egyptian woman, alone, at the bottom of every
 hierarchy the story keeps — nation, class, gender, condition. Everyone else is told. She tells.
 
-If this essay wanted a replacement portrait, here's where it would hang one: God as the One who
+If a replacement portrait were wanted, here's where it would hang: God as the One who
 sees the used and the thrown-away, named by the least of them. It's true, and it's beautiful. But
 the text won't let it stay beautiful, and the next verse is the reason.
 
@@ -344,7 +344,7 @@ and Spirit alike.[^26]
 Every clause of that holds, and the whole of it rests on one word. *Two.* Two masculine persons,
 and a feminine third that can only arrive as the exception to them. The trap needs a masculine
 default for the feminine to depart from; take the default away and there's nothing left for it to
-close on. That default is what the rest of this essay dismantles, and once it's gone the
+close on. That default comes apart in the parts that follow, and once it's gone the
 arithmetic is different. I follow that out where it belongs, in [*A Mother Bird Over the
 Deep*](https://elmuffin.substack.com/p/a-mother-bird-over-the-deep): the Spirit's pronoun in this
 publication is *She* — not a promotion, not a rescue, just the last door standing open after the

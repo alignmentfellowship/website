@@ -1,7 +1,6 @@
 ---
 slug: in-the-name-the-ambassador
 title: In the Name (The Ambassador)
-source_slug: the-name
 subtitle: The phrase we turned into a password
 published_at: 2026-08-28
 footnotes: native
@@ -15,7 +14,7 @@ hero:
     throne, ranks of seated courtiers on either side
   width: 1536
   height: 1024
-digest: sha256:a61d7a7bc0cd52ff3c4b218bbe768c15d10b5dc4d0e56ceed89a6770fe7c6144
+digest: sha256:46e653c7cc30a80cd1e8e3806fb40db8859dc57248f47569b978ca8dc1584314
 ---
 
 ## I. In the Name of the Law
@@ -75,7 +74,7 @@ I do not think anyone missed it. I think we have misread something, and it is no
 word has been recovered elsewhere and I will lean on the recovery rather than repeat it.[^believe]
 It is not quite *name*, either. **It is the phrase.**
 
-So this essay is one question, and it is a small one. What happens if *in the name*, when the name
+So this is one question, and it is a small one. What happens if *in the name*, when the name
 is God's, means exactly what it means every other time you have ever used it?
 
 ## II. The Name Was Never the Word
@@ -185,12 +184,12 @@ with nothing left over:
 
 > *Not My will, but Thine, be done.*[^geth]
 
-Which means the incarnation is not merely the occasion of this essay's question. **It is the
+Which means the incarnation is not merely the occasion of the question. **It is the
 demonstration of the answer.** If you want to know what it looks like to be in the Father's name,
 the entire public life of Jesus of Nazareth is the exhibit — and at no point does the exhibit
 consist of Him saying a word.
 
-The Greek corroborates without establishing, and I want to keep it at that weight. The construction
+The Greek corroborates without establishing, and it is kept at that weight. The construction
 under *believe in the name* is *pisteuō eis to onoma* — believe **into** the name, which is odd in a
 specific direction, since one does not believe *into* a proposition. You can believe *that* a thing
 is so; you cannot believe *into* it. And in the ordinary paperwork of the period, *eis to onoma* is
@@ -235,7 +234,7 @@ out for its meaning**:
 
 *In My name* in the gospel. *According to His will* in the letter. Same promise, same community, one
 phrase traded for the other in the operative slot, with nobody appearing to notice a change of
-subject — because, if this essay is right, there was no change of subject. **Scripture treats the
+subject — because, if the reading here is right, there was no change of subject. **Scripture treats the
 two as interchangeable, which is precisely what is being claimed here.**
 
 And once you can read the promise that way, the sentence He says two chapters after making it stops
@@ -262,8 +261,7 @@ never the mechanism. There is no incantation you got wrong, because there was no
 
 ## V. Matthew 7:21-22
 
-Now back to the crowd we started with, because the problem this essay opened with does not need
-solving. It needs noticing that it was never there.
+Now back to the crowd we started with, because the problem we opened with does not need solving. It needs noticing that it was never there.
 
 Here is the sentence immediately before the one we began on. Same sermon, same breath, one verse
 earlier:
@@ -315,7 +313,7 @@ Knowing, there, runs both ways — He is not describing strangers. But notice wh
 Now set three scenes together. The men of Matthew 7 **have the name**, have used it to do things
 that worked, and hear *I never knew you* — not *you never knew Me*. **He** is the one declining to
 acknowledge them.[^knew] The welcomed of Matthew 25 **do not know Him**, and are welcomed anyway.
-And the sheep of John 10 do not have His name; they have His voice. He has their names.
+And the sheep of John 10 do not have His name; they have His voice. He has *their* names.
 
 **In none of the three does holding His name count for anything, and in all three His knowing them
 does.** So the question the texts keep answering is not whether you can say His name. It is whether
@@ -401,7 +399,7 @@ name* very plausibly carried a sense close to *say it out loud where it will hur
 anonymity at all, but its opposite. Somebody who knows the historical situation will raise this,
 and they will be raising something real.
 
-So let me say exactly what I am doing with it, and no more. I think John's *situation* was public
+So, exactly what is being done with it, and no more. I think John's *situation* was public
 confession, and that the *criterion* his language encodes is coming under the will, and that the two
 are compatible — because for a community in which coming under the will meant saying so publicly at
 cost, the phrase would naturally do both jobs at once. **But that is a claim I am making, not a
@@ -420,7 +418,7 @@ And look at what joins the halves of the second one. *He humbled Himself, and be
 death, even the death of the cross.* **Wherefore** — on account of that — *God also hath highly
 exalted Him, and given Him a name which is above every name.*[^phil] The hymn puts the will first
 and the name second, and makes the second the consequence of the first. **The objection's own proof
-text is built in this essay's order.**
+text is built in that same order.**
 
 Two limits, so this stays the size it actually is. **This is not universalism** — nothing here says
 everyone arrives, and the scene the whole argument runs through has two groups in it, not one. And
@@ -443,8 +441,8 @@ speaks. It arrives at the turn, which is the only moment you are in a position t
 does not introduce itself, because it does not have to. You were never asked to identify the
 speaker. You were asked to turn.
 
-And if the shepherd chapter is telling the truth, your name is already in His mouth, and has been
-there the whole time you were worrying about His.
+And if the shepherd chapter is telling the truth, *your* name is already in His mouth, and has been
+there the whole time you were worrying about *His*.
 
 ---
 
@@ -464,8 +462,8 @@ own voice about what condemns a person. If anything the second reading helps §V
 verse 19 as John speaking plainly one line later.
 
 [^believe]: The recovery of *believe* — belief-*in* (trust, fidelity, self-entrusting) against
-belief-*that* (assent to a proposition) — is argued in [*I Believe in You*](https://elmuffin.substack.com/p/i-believe-in-you) and presupposed here. This
-essay grants that *believe* means entrustment and asks the next question: entrustment into **what**.
+belief-*that* (assent to a proposition) — is argued in [*I Believe in You*](https://elmuffin.substack.com/p/i-believe-in-you) and presupposed here. That
+*believe* means entrustment is granted; the next question is entrustment into **what**.
 
 [^agency]: The maxim is *shelucho shel adam kemoto* — "a person's agent is as himself." It appears
 in the Mishnah at Berakhot 5:5 (of a congregation's prayer leader, whose error is a bad sign for
@@ -492,9 +490,8 @@ the essay runs on.
 
 [^vain]: Exodus 20:7 (KJV); the parallel is Deuteronomy 5:11. The verb is *nasa'* — to lift, carry,
 or bear — and *shav* covers emptiness, falsehood, and worthlessness, which is what licenses the
-rendering *you shall not bear the name of the LORD your God emptily*. I want to be exact about the
-standing of that reading, because the argument does not need it and would be damaged by overstating
-it. **It is neither the oldest reading nor a consensus one.** The original sense of the command is
+rendering *you shall not bear the name of the LORD your God emptily*. The standing of that reading wants stating, because
+nothing here needs it and overstating it would do damage. **It is neither the oldest reading nor a consensus one.** The original sense of the command is
 genuinely disputed — something on the order of two dozen interpretations have been proposed over the
 centuries — and the traditional lines run toward false oaths sworn in the name, or irreverent use of
 it in speech. The bearing-the-name reading is a recent and vigorously argued one, most fully by
@@ -526,7 +523,7 @@ between being self-sent and being sent.
 
 [^geth]: Luke 22:42 (KJV), at Gethsemane, in full: *Father, if Thou be willing, remove this cup from
 Me: nevertheless not My will, but Thine, be done.* The scene is treated at length in
-[*The Sheep in the Basement*](https://elmuffin.substack.com/p/the-sheep-in-the-basement); here it is the limit case of the phrase this essay is about.
+[*The Sheep in the Basement*](https://elmuffin.substack.com/p/the-sheep-in-the-basement); here it is the limit case of the phrase under discussion.
 
 [^eis]: The idiom is well attested. Moulton and Milligan, *The Vocabulary of the Greek Testament*,
 note that *eis to onoma tinos* is frequent in the papyri of payments made "to the account of any
@@ -567,21 +564,21 @@ is the hinge of that scene and is argued at length in [*The Sheep in the Basemen
 follow… for they know not the voice of strangers* (10:5). What the sheep are credited with is
 auditory and relational throughout the passage, and never nominal.
 
-[^1014]: John 10:14 (KJV). Three verses later is the line that would have done this essay's work in
-one stroke had I wanted to lean on it: *other sheep I have, which are not of this fold: them also I
+[^1014]: John 10:14 (KJV). Three verses later is the line that would have done the whole job in
+one stroke: *other sheep I have, which are not of this fold: them also I
 must bring, and they shall hear My voice* (10:16). I have kept it out of the body because its
 referent is contested — most naturally the Gentile mission — and the argument does not need a
 contested verse when the uncontested ones say it.
 
 [^knew]: *ouk egnōn hymas.* The verb carries the covenantal sense running back through the Hebrew
 *yada'* — to acknowledge, to own, to recognize as one's own — rather than the thinner "be acquainted
-with." I take that reading because it is the likelier one, and it cuts in this essay's favor rather
+with." I take that reading because it is the likelier one, and it cuts in my favor rather
 than against it: acknowledgement is even more plainly relational, and more plainly one-directional,
 than acquaintance.
 
-[^isa]: Isaiah 30:21 (KJV), quoted whole. The verse is load-bearing in [*The Highest Peak*](https://elmuffin.substack.com/p/the-highest-peak), where it
-carries the shape of guidance — step-sized, corrective, arriving from behind. Its job here is
-narrower and I want to be exact: Isaiah addresses a people who know very well whose voice it is. The
+[^isa]: Isaiah 30:21 (KJV), quoted whole. The verse carries weight in [*The Highest Peak*](https://elmuffin.substack.com/p/the-highest-peak), where it
+takes the shape of guidance — step-sized, corrective, arriving from behind. Its job here is
+narrower: Isaiah addresses a people who know very well whose voice it is. The
 verse shows what being led sounds like; it does not by itself establish that an unnamed walker hears
 it. That rests on the gospel material above.
 

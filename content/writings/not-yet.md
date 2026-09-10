@@ -15,7 +15,7 @@ hero:
     corner
   width: 1536
   height: 1024
-digest: sha256:9392b365ba21c543a42f9cb7d822709bbafff110bae1e2672d5938adc67f36cf
+digest: sha256:0a4ee5ebee71299aec7e647c64cb5db04ecce0fee8388e073b9111f2e11945f6
 ---
 
 ## I. The Dozenth Quit
@@ -46,7 +46,7 @@ weeks at a stretch — not evenings, weeks — I played three video games. *Civi
 Battlegrounds mode of *Hearthstone*: three turn-based games, which is to say three machines built on
 the principle that the next turn is always cheap and the sequence never resolves. I left the
 apartment to buy groceries and to walk my dog. That was the whole of it. I sat down after breakfast
-and I played until it was dark, and I want to be exact here: nothing slipped. I was not ambushed by
+and I played until it was dark. Exactly: nothing slipped. I was not ambushed by
 the hours. And when I wasn't playing I was watching other people play — Battlegrounds streamers on
 Twitch, hours of it. The appetite didn't even stop at my own turns.
 
@@ -620,7 +620,7 @@ and I wanted to talk to a friend, and my friend was outside smoking. So I went o
 one, because that is what you do when you want to stand next to somebody. That was all it took. Two
 weeks, and then I quit again, a few days ago, for the dozenth time.
 
-I want to sit in that asymmetry rather than resolve it, because resolving it is precisely the move
+The asymmetry stays unresolved, because resolving it is precisely the move
 everything above has been objecting to. Something real happened to me in August; it took one thing
 and did not take the other, and the other arrived days later on a sidewalk because I wanted company.
 I do not know what to do with that, and the moment I explain it I will have a theory. And a theory

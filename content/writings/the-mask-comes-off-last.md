@@ -1,7 +1,6 @@
 ---
 slug: the-mask-comes-off-last
 title: The Mask Comes Off Last
-source_slug: thousand-faces
 subtitle: No test tells you whether a word is God's. One tells you where you would be acting from, and
   the rest is known only afterward.
 published_at: 2026-09-04
@@ -17,7 +16,7 @@ hero:
     through the window.
   width: 1484
   height: 1060
-digest: sha256:510d23626be18b473b1661aec9f6e0a4db30abf02722811a406b2f6b80d8ec25
+digest: sha256:7a6314c3d8ae831ab82b70ae42e667e88e2d749003b03c17a7ebc8b1eed49079
 ---
 
 ## I. A Thousand Faces, One Villain
@@ -637,7 +636,7 @@ the seat, which I can read, and the sea in front, and the next word, which is *f
     us, *"there is nothing we can do, except be crucified — and resurrected; dismembered totally, and
     then reborn"* (p. 15). The dying gods themselves — Osiris, Dionysos, Frazer's corn king, the
     shamans of the far north — are Campbell's inventory across "The Belly of the Whale," "Tragedy and
-    Comedy," and "The Road of Trials"; the tradition's own name for the move this essay makes against
+    Comedy," and "The Road of Trials"; the tradition's own name for the move made here against
     him is C. S. Lewis's, "Myth Became Fact" (1944), and the argument here is not his.
 
 [^dream]: Campbell, *Hero*, "Myth and Dream," pp. 12–13: *"Full circle, from the tomb of the womb to

@@ -1,7 +1,6 @@
 ---
 slug: the-life-is-not-in-the-book
 title: The Life Is Not in the Book
-source_slug: tone-deaf
 subtitle: I heard the music before I could read a word of it.
 published_at: 2026-09-01
 footnotes: native
@@ -15,7 +14,7 @@ hero:
     in the lit church beyond it
   width: 1536
   height: 1024
-digest: sha256:43d7baf3dba20c8728b63bb402ab64badeb28ee28c7b027550e73ba2dd249f48
+digest: sha256:ae76662d6bcea2835dba8064f279ed1c81ccd844afce8f8f58ab99a13e9873cf
 ---
 
 ## I. The object
@@ -107,7 +106,7 @@ Amy-Jill Levine states the hazard plainly: making the Pharisees, and through the
 in order to make Jesus look good is bad history, bad theology, and bad morality.[^levine] All three,
 and the third is the one that governs here.
 
-There's a sharper version of the problem, and it sits inside the chapter this essay is built on.
+There's a sharper version of the problem, and it sits inside the chapter all of this is built on.
 John mostly doesn't write *the Pharisees*; he writes *the Jews*, and that phrase in that gospel has
 underwritten more Christian violence than any other three words in the New Testament. It's coming
 shortly, in a verse quoted here for its flattest and hardest line, and it is neither softened nor
@@ -344,7 +343,7 @@ life, among people. Taken at its strongest, the objection points at the door.
 One more thing, and it's a point about reference rather than authority: when 2 Timothy was written,
 *all scripture* could not have denoted a collection containing 2 Timothy. The first list of exactly
 the twenty-seven books an English reader now holds is Athanasius's Easter letter of 367.[^canon]
-Whatever *graphē* meant in that sentence, it did not mean the object this essay opened on.
+Whatever *graphē* meant in that sentence, it did not mean the object we opened on.
 
 **The second objection is a direct counterexample.**
 
@@ -352,7 +351,7 @@ Whatever *graphē* meant in that sentence, it did not mean the object this essay
 > readiness of mind, and searched the scriptures daily, whether those things were so.* (Acts 17:11)
 
 Searching, commended — and commended in the comparative. *More noble.* The Bereans are the people
-this essay is supposedly worried about, and Luke gives them a medal.
+we are supposedly worried about, and Luke gives them a medal.
 
 So look at what they were searching *against*. A living man had come into their synagogue and was
 saying something to them, and they went to the text to test it. The word came first; the searching
@@ -557,7 +556,7 @@ Following anyone at all, in August. The music arrived two months before I opened
 text had four more months of work to do after that — and what it turned out to be for was teaching
 me to recognize a voice I had already heard once, under the words, without knowing whose it was.
 
-So the standing this essay has was never *I read less than you do.* The object it opened on is the
+So the standing claimed here was never *I read less than you do.* The object it opened on is the
 one in my pocket. I open the app most days. Nothing here has been asking anyone to put it down.
 
 Go back to the pool, because the text already did this and did it better. The man is not told to

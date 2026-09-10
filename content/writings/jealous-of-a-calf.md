@@ -1,7 +1,6 @@
 ---
 slug: jealous-of-a-calf
 title: Jealous of a Calf
-source_slug: fear-of-god
 subtitle: On the fear of God, and the room where it was said.
 published_at: 2026-09-01
 footnotes: native
@@ -15,7 +14,7 @@ hero:
     splits the mountain burning behind it
   width: 1484
   height: 1060
-digest: sha256:d3cd7fde3dd7c5569935fe2543ed212d42fdfa344d5662982c0cb1a3f82fbf8b
+digest: sha256:51da26c4ef3ebaffaf42cde243adff808eb5eea51a329af435cadea633068cd7
 ---
 
 ## I. The Residue
@@ -63,7 +62,7 @@ I should say where I am standing. I was raised without any of this — no church
 nothing to lose my faith in. Jesus found me as an adult, late, and I can tell you exactly which
 half of the inheritance went down easily. *God-fearing* needed no explaining: my first experience
 of authority was a fearful one, so a God you had to watch out for was a shape I already knew the
-feel of. *God is love* was the sentence that sounded like a slogan. That is the wound this essay
+feel of. *God is love* was the sentence that sounded like a slogan. That is the wound it
 is written from. It is not the argument, and I will not lean on it again.
 
 Here is the argument, and it starts with a concession, because the move I am about to make is
@@ -530,7 +529,7 @@ excuse for reading it as somebody else's problem.
 
 **"You have laundered a violent book into a kind one."** This is the hard one, and I am not going
 to answer it, because I cannot. There are texts in the Old Testament — commanded slaughter, the
-ban, cities put to the sword — that no reading of *yirah* touches and that this essay does not
+ban, cities put to the sword — that no reading of *yirah* touches and that I do not
 address. I am making a claim about two words in a specific setting, not issuing an acquittal for
 a library. If you came here for the whole ledger to be balanced, it isn't, and I would be lying
 to tell you the fear question settles the rest. It doesn't. It settles the fear question.
@@ -604,8 +603,8 @@ Dictionary of the English Language* (1828) still lists the two senses as separat
 springs from a just view and real love of the divine character… This is filial fear,"* against
 *"Slavish fear [which] is the effect or consequence of guilt; it is the painful apprehension of
 merited punishment"* — with *"Reverence; respect; due regard"* listed separately again as sense 9.
-A lexicographer writing two centuries after the King James, in English, drawing the same line this
-essay is drawing, and citing 1 John 4:18 for the fear that goes. The sense was alive then and is
+A lexicographer writing two centuries after the King James, in English, drawing the same line drawn
+here, and citing 1 John 4:18 for the fear that goes. The sense was alive then and is
 not now.
 
 [^5]: Exodus 20:20, KJV: *"And Moses said unto the people, Fear not: for God is come to prove

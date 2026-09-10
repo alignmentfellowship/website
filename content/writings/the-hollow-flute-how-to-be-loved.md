@@ -1,7 +1,6 @@
 ---
 slug: the-hollow-flute-how-to-be-loved
 title: The Hollow Flute (How to Be Loved)
-source_slug: hollow-flute
 subtitle: I spent years manufacturing what was already there.
 published_at: 2026-09-03
 footnotes: native

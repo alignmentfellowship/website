@@ -1,7 +1,6 @@
 ---
 slug: a-mother-bird-over-the-deep
 title: A Mother Bird Over the Deep
-source_slug: she-her
 subtitle: The pronoun in your Bible for the Holy Spirit is a Latin noun-ending, and nobody ever chose
   it.
 published_at: 2026-09-01

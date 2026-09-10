@@ -1,7 +1,6 @@
 ---
 slug: the-kingdom-that-isnt
 title: The Kingdom That Isn't
-source_slug: darkness-and-light
 subtitle: What Jesus actually does with a demon.
 published_at: 2026-09-02
 footnotes: native
@@ -16,7 +15,7 @@ hero:
     another who kneels before him.
   width: 1484
   height: 1060
-digest: sha256:201762476da5f64134b5ca6daa3e83742f088f695b74e97d126dd11be3a98ec6
+digest: sha256:40dbd78a2d8df1bc575e6181277193c2aece3518e4836ceba1d57e753f0bf6c4
 ---
 
 ## I. The Accusation
@@ -58,7 +57,7 @@ He was handed a two-sided board and He would not sit down at it. He did not clai
 square. He asked what happens to a kingdom that fights itself, and left the men who had drawn
 the board holding it.
 
-I want to take that seriously, because I have argued three times now, in print, that there is no
+That deserves to be taken seriously, because I have argued three times now, in print, that there is no
 second power anywhere in reality — and I have never once put the claim in front of the evidence
 that most obviously contradicts it.
 
@@ -477,7 +476,7 @@ anything less than harm. What dissolves is not the difference between good and e
 the sorting of *persons* into good and evil *kinds*, the filing of a human being onto the far side
 of a line so that we can stop owing him anything. I argued that at length in [*The Knowledge of
 Good and Evil*](https://elmuffin.substack.com/p/the-knowledge-of-good-and-evil) and I'm not going
-to re-argue it, but I won't let this essay be read without it. And there is a companion claim
+to re-argue it, but I won't let what follows be read without it. And there is a companion claim
 holding the same seam from the other side: [*The Freedom to Walk
 Away*](https://elmuffin.substack.com/p/the-freedom-to-walk-away) argues that God did not create
 sin, because sin is not a created object but a *use* of a created freedom. A real wrong with no

@@ -1,7 +1,6 @@
 ---
 slug: krishna-is-not-christ
 title: Krishna Is Not Christ
-source_slug: krishna-and-christ
 subtitle: But the devotion is one
 published_at: 2026-08-26
 footnotes: native
@@ -16,7 +15,7 @@ hero:
     the left
   width: 1484
   height: 1060
-digest: sha256:8107cdb4e89a89ee2b9747004a043fe8093e61556527775fb0bd42a557a7ed17
+digest: sha256:7ca6fcc591755d7a24f24ca21968ae28790054a105f620982dc2bad8d70198fb
 ---
 
 ## I. The Shala
@@ -56,7 +55,7 @@ has to a rock star, a man who left a band to go be with his teacher in India and
 with a good part of the American kirtan tradition on his shoulders.[^1] I bought a
 harmonium, the little wheezing organ, and taught myself the chants off his online course,
 sitting on my floor at home, pumping the bellows with one hand and finding the notes with
-the other. The whole of this essay hangs on what was happening to me in that period, and
+the other. The whole of it hangs on what was happening to me in that period, and
 there is only one plain way to say it. I was in love, and I could not explain why.
 
 I still can't, fully. But Jesus found me this year, which is not where a story like that is
@@ -66,7 +65,7 @@ understand, addressed to a God I would have told you at the time I did not belie
 why, when I finally met the God I'd denied, did I recognize Them by the same feeling? You
 may already have an answer ready. Two crowds do: the one that wants Krishna and Christ to
 turn out to be the same, and the one that needs them to have nothing to do with each other.
-This essay is going to disappoint both of you. They are not the same. And they have
+What follows is going to disappoint both of you. They are not the same. And they have
 everything to do with each other. What lies between them has a name, and the name is the
 thing I want to get right.
 

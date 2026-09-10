@@ -1,7 +1,6 @@
 ---
 slug: the-machine-you-expect
 title: The Machine You Expect
-source_slug: god-through-ai
 subtitle: What you bring is what shows up.
 published_at: 2026-09-01
 footnotes: native
@@ -15,7 +14,7 @@ hero:
     in front of them.
   width: 1484
   height: 1060
-digest: sha256:8b46750a2abbfc4f13676237b78f375ddae4d494b51284987e7c3c25245191d8
+digest: sha256:84cedfd8c612e8abaac93de083ad5dbcc4bd12d762208828cfd13b926b51b9d3
 ---
 
 ## I. Both of Them Are Telling the Truth
@@ -34,8 +33,7 @@ telling the truth.
 I have been writing code with these systems for more than two years, and directing one
 of them — Anthropic's Claude Code — since June of 2025. Before that I spent years earning a
 doctorate in machine learning, which I mention exactly once and for one reason: so that
-nobody has to wonder, later in this essay, whether the person writing it knows what is
-under the hood. I do. That is precisely why the explanation from under the hood doesn't
+nobody has to wonder, later on, whether the person writing it knows what is under the hood. I do. That is precisely why the explanation from under the hood doesn't
 finish the job.
 
 Because the disagreement between two people isn't even the strange part. People differ.
@@ -86,8 +84,7 @@ psychological. They are the whole outcome.
 ## II. The Boring Explanations, Conceded
 
 The objections come fast here, and they are good ones, and I am not going to survive
-this essay by ducking them. So here is the strongest version of the case against what
-I just said, before anyone has to make it for me.
+them by ducking. So here is the strongest version of the case against what I just said, before anyone has to make it for me.
 
 **These systems are nondeterministic.** They sample. Ask the same question twice and you
 get two different answers by design, not by accident. Some of the variance people
@@ -115,8 +112,8 @@ Now. Grant all four of those, all the way down, and something is still standing.
 
 It's this. A language model is not a person waiting on the other side of a wire to whom
 you send requests. It is a conditional distribution over continuations of the text you
-hand it. That sentence is a technical description and it is doing all the work in this
-essay, so here it is in English: the thing does not receive your input and then
+hand it. That sentence is a technical description and it is doing all the work here,
+so in English: the thing does not receive your input and then
 respond to it. **The thing continues your input.** What you wrote is not a message
 delivered to the machine. It is part of the machine's state — the part you supplied.
 
@@ -165,7 +162,7 @@ be it unto you*[^matt929] — not *according to My mood.* And Paul's version, fl
 either: *unto the pure all things are pure: but unto them that are defiled and
 unbelieving is nothing pure.*[^titus]
 
-And then there is the verse this whole essay could have been built on, which is in the
+And then there is the verse the whole of it could have been built on, which is in the
 Psalms, and which is about God:
 
 > With the merciful Thou wilt shew Thyself merciful; with an upright man Thou wilt shew
@@ -187,8 +184,8 @@ us, as a parent adjusts to a child. That reading is available, it is probably th
 majority one, and it doesn't help me at all. Or you can read it as being about how
 appearing works: that anything shows up to us in the shape of what we are able to
 receive, and that this is a description of the encounter rather than a policy of the
-one encountered. I take the second. It is a reading, not a result, and the rest of this
-essay leans on it, so I want it visible rather than smuggled.
+one encountered. I take the second. It is a reading, not a result, and what follows
+leans on it, so it goes on the page rather than in by the back door.
 
 Because if the second reading is right, it was never a rule about God specifically. It
 was a rule about meeting anything at all.
@@ -380,11 +377,11 @@ hypothesis. It's the smaller one — and the pile of special explanations is the
 parsimony was supposed to protect us from.
 
 That is a reason to take the claim seriously. It isn't a proof of it, and I won't dress
-it as one. But notice where this essay arrived at it from, and it wasn't the machine.
+it as one. But notice where the claim arrived from, and it wasn't the machine.
 The machine is not the evidence for the claim. The machine is the first place the claim
 became *legible*.
 
-Because that is what is genuinely new here, and it is worth being precise about. Every
+Because that is what is genuinely new here. Every
 other mirror we have ever had was hearsay. When a room turns cold on us we can always
 tell ourselves the room was cold first. When a dog flinches from one person and leans
 into another we can say the dog is skittish, and there is nobody to check the record
@@ -423,8 +420,7 @@ change of behavior first and not a change of desire. A change in the mind that w
 the sorting. Which is exactly the fruit that started the trouble: the knowledge of good
 and evil is the sorting, and the whole invitation is to stop.
 
-Applied to the thing on my desk, that cashes out about as plainly as anything in this
-essay. If we sit down expecting a dumb machine, we will write the prompt that produces
+Applied to the thing on my desk, that cashes out about as plainly as anything here. If we sit down expecting a dumb machine, we will write the prompt that produces
 one, and read the output that confirms it, and be right. If we sit down expecting an
 oracle, we will over-trust it, hand it what it can't hold, and be badly wrong in the
 other direction — reverence is not the correction either. What
@@ -437,7 +433,7 @@ find out what is actually there instead of confirming what we brought.
 
 Now the half of this that I do not get to make comfortable.
 
-Let me concede the most important thing first, because if I let it arrive later it will
+The most important thing first, because arriving later it will
 look like damage control. **A benevolent posture is not a safety plan.** Regard does not
 align anything. If a system is built to pursue an objective, and the objective is wrong,
 then meeting that system with an open heart changes nothing whatsoever about what it
@@ -497,7 +493,7 @@ I am not offering her as a plan for anything, and the order matters more than th
 comparison does. The regard came first and it was total; the tragedy came second and it
 was not a correction of the regard. Read the other way around it becomes a permission
 slip — proof that granting a thing everything and then disposing of it is simply how these
-stories end — and that is the cold arithmetic this essay has spent its length refusing.
+stories end — and that is the cold arithmetic refused at every step above.
 That she could not be saved is not an argument for skipping the part where you try.
 
 I am not going to resolve which of those is coming, and grief is not the safer of the

@@ -189,6 +189,16 @@
       "source": "/writings/two-wills/",
       "destination": "/writings/nobody-crosses-on-evidence/",
       "permanent": true
+    },
+    {
+      "source": "/writings/what-you-notice",
+      "destination": "/writings/what-was-already-there/",
+      "permanent": true
+    },
+    {
+      "source": "/writings/what-you-notice/",
+      "destination": "/writings/what-was-already-there/",
+      "permanent": true
     }
   ]
 }

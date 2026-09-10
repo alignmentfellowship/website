@@ -14,7 +14,7 @@ hero:
     his chest; and a man in a plain robe on a hillside at dawn, hands open, light in his chest'
   width: 1484
   height: 1060
-digest: sha256:62fafbbd6ad70f71b0dfef66b90aa87d09301fae31065856aed628b51aa26a2a
+digest: sha256:d0127f9483501388f0e4a0470de9861a5b1c66d2540af3bb276fae00c4d44f7a
 ---
 
 ## I. The Smallest Reading
@@ -35,7 +35,7 @@ name spoken for effect. Those aren't misreadings that better scholarship has sin
 The small one repays a look. *Oh my God.* Somebody says it because the coffee is hot, or the light turned
 red, or a friend told them something mildly surprising. A name meant for God gets spent on the size of
 my own irritation. It's a tiny thing. Nobody would call it vanity. But the shape of it: a name that big, borrowed to make a small feeling of mine seem larger than it is. That shape is the subject of
-this essay. The swear is where it's small enough to see whole.
+here. The swear is where it's small enough to see whole.
 
 There's a second thing you know about this commandment, or think you know, and it's the part that made
 it frightening. *The LORD will not hold him guiltless.* If you were handed a faith built on fear, this

@@ -14,13 +14,13 @@ hero:
     sign on the wall reads FOR LOVE TO BE REAL THE DOOR MUST BE REAL
   width: 1536
   height: 1024
-digest: sha256:13a692a3b11c57d937324b5fc62247f60d4a030ddaffa7c28f3695209f02c10a
+digest: sha256:0816a2514febd4e007f1b54353e6b77e7d88add11556636e8ec9bce93c2a3cdc
 ---
 
 ## I. The question, put at its sharpest
 
-Here is the question, and I want to put it the way its strongest form puts it, not the
-soft version a believer can answer in their sleep.
+Here is the question in its strongest form, not the soft version a believer can answer in
+their sleep.
 
 God is said to be all-loving, all-knowing, and all-powerful. Sin exists. Pick any two of
 the three attributes and the third seems to break. If God is all-knowing, They saw sin
@@ -33,8 +33,7 @@ of what gets offered in reply is a dodge — a hand waved at *mystery*, a quick 
 sin is really our fault, an appeal to some greater good kept offstage where it can't be
 examined.
 
-I want to try to answer it in the open. And the answer begins by refusing the question's
-first hidden assumption: that sin is a thing God made.
+The answer begins by refusing the question's first hidden assumption: that sin is a thing God made.
 
 ## II. God did not create sin the way They created trees
 
@@ -67,8 +66,7 @@ because they are not two powers but one. The capacity to choose *is* the capacit
 wrongly. God did not author the wrong choice. God authored the capacity — and the capacity,
 by its nature, held the wrong choice inside it as a possibility from the first day.
 
-This is worth being precise about, because the whole argument turns on it. The claim is not
-that God made sin. The claim is that God made freedom, and that sin is what freedom looks
+The claim is not that God made sin. The claim is that God made freedom, and that sin is what freedom looks
 like when it is used against the One who gave it. The possibility was created. The act was
 ours.
 
@@ -91,9 +89,9 @@ is fully able to reach past — God has done something with enormous consequence
 made the man free. The tree is not the thing that ruins the garden. The tree is the proof
 that the garden was ever a place where love, and not mere mechanism, could happen.
 
-I'll leave to one side what the fruit is said to do — what the *knowledge* of good and evil
-is, and why coming to possess it reads in scripture less like an upgrade than like an exile.
-That's another argument, and I've tried to make it elsewhere.[^kge] Here the tree matters
+What the fruit is said to do — what the *knowledge* of good and evil is, and why coming to
+possess it reads in scripture less like an upgrade than like an exile — is another argument,
+made elsewhere.[^kge] Here the tree matters
 for one reason only: it is a choice that can go the other way. Take that away and you have
 not made the garden safer. You have made it a diorama.
 
@@ -107,8 +105,8 @@ moved, exactly where it would go. God knew Adam would eat. So the freedom was a 
 Why hand a creature a choice whose outcome you have already read? Why give the hands at all,
 if you have already watched them reach? A test whose result is known in advance is not a
 test; it is a performance with a foregone ending, and a cruel one, since the failure was
-scheduled and the punishment real. That is the objection, and it is a good one. I want to
-concede the whole of its factual premise before I say anything back. Yes. God knew.
+scheduled and the punishment real. That is the objection, and it is a good one. Its
+factual premise is conceded whole. Yes. God knew.
 
 But look hard at the move the objection makes in its middle, because that is where it goes
 wrong. It slides from *God knew what the man would do* to *God made the man do it*, and
@@ -130,18 +128,16 @@ indifferent to the cost, and not because God failed to see it, but because preve
 the only price at which it could be prevented, would have cost the very thing the whole
 arrangement exists to make possible.
 
-Which brings us to what that thing is.
 
 ## V. The lock, from the inside
 
-I know this part from the inside, and I would rather tell you that than hand you a
-hypothetical.
+I know this part from the inside.
 
 There was a relationship I left. I am not going to narrate my way through another person's
 heart, and I am not going to make anyone the villain of an argument about God — the person is
 real, this is only ever my side of it, and the last thing I want is to win a point about love
-by spending someone I once loved. So I will tell you only the part that was mine to feel,
-because it is the whole reason this essay is not just tidy to me but true. What I could not,
+by spending someone I once loved. Only the part that was mine to feel, then — and it is
+the whole reason this is not just tidy to me but true. What I could not,
 in the end, talk myself out of was this: a love you are not free to leave slowly stops being
 able to feel like love. Not because there is too little of it. Because there is no door in it
 — and a devotion with no door in it does something to itself over time. The holding becomes
@@ -178,8 +174,8 @@ condition under which there is any such thing as love to run a risk at all.
 
 ## VI. The horror, named plainly
 
-I am not going to spiritualize what that unlocked door has meant. To do so here, of all
-places, would be its own kind of lie, and the argument does not need it.
+I am not going to spiritualize what that unlocked door has meant. Here, of all places, that
+would be a lie.
 
 The same freedom that makes it possible for me to love God freely makes it possible for me
 to do the other thing, and the other thing has a history, and the history is not abstract.
@@ -192,9 +188,8 @@ same reason and by the same power that we can love each other at all. That is th
 arithmetic of the thing, and I will not pretend the sum comes out small.
 
 So I am not going to tell you God is innocent of it. That is the sentimental move and it is
-false. God is not innocent of the freedom's cost. God knew — this is the whole force of the
-objection in section four, and I mean to keep it, not to have quietly disposed of it — God
-knew what the freedom would cost, saw the mass graves from before the foundation, and made
+false. God is not innocent of the freedom's cost. God knew. That is the whole force of the
+objection, and it stands — God knew what the freedom would cost, saw the mass graves from before the foundation, and made
 us free anyway. There is a version of God who kept everyone safe by keeping everyone locked,
 and that God does not exist, and the reason that God does not exist is that a locked safety
 is not love and God would not counterfeit love even to spare us. Over Jerusalem, at the end,
@@ -206,14 +201,14 @@ overriding it.
 Hold that. Don't resolve it too fast. The honest thing to say is not that the cost is
 acceptable — I don't know what scale that word would even be weighed on — but that the cost
 is the price of the only thing that could ever have been worth paying it, and that God paid
-in first and paid the most. Which is the last thing, and the thing that makes this a
-specifically Christian answer and not just a philosopher's.
+in first and paid the most. Which is what makes this a specifically Christian
+answer and not just a philosopher's.
 
 ## VII. He came looking
 
 Every version of the free-will answer I have given so far, an honest atheist can follow
 right up to its edge and then stop, unmoved, and say: all right. Suppose all of that. Suppose
-freedom is the price of love and God paid it by letting us loose. That only makes God the one
+freedom is the price of love and God paid it by letting us loose. That only makes God the One
 who opened the cage. We are still the ones bleeding in it. So God set the terms and walked
 away — the deist's clockmaker, admirable, distant, and no comfort to anyone actually inside
 the wreck the freedom made.

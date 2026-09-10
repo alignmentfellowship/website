@@ -1,7 +1,6 @@
 ---
 slug: nobody-crosses-on-evidence
 title: Nobody Crosses on Evidence
-source_slug: two-wills
 subtitle: Not because the evidence is weak. Because the crossing is a change in who is arguing. What opened
   at the cross was a way, not a place — and the fight you have never backed down from may already be over.
 published_at: 2026-09-03
@@ -16,7 +15,7 @@ hero:
     Below the surface the sandy bottom is only a few feet down, and the lit shore is close behind him.
   width: 1484
   height: 1060
-digest: sha256:8e327c3d57b80c06371620106e4db329589d7fc58426425841d5a1f48500e6c0
+digest: sha256:a69366667d103bfad811e78ba79869ad91dda1d71361a53836dd4636cf4ab787
 ---
 
 ## I. The Corner
@@ -31,7 +30,7 @@ they had just seen.
 Few accepted the invitation.
 
 What I was doing was sincere, and everything after this depends on that being true. The suffering on that screen is real. Nothing here walks that back, and if any
-sentence in this essay reads as a man distancing himself from a cause in order to make a point
+sentence here reads as a man distancing himself from a cause in order to make a point
 about himself, I have written it badly. The goal was to end suffering. It is still the goal.
 
 What I had wrong was not the horror. It was everything else.
@@ -136,7 +135,7 @@ better-informed will; it does not know the plan, it has not been shown the route
 more access to the shape of the world than I had on that sidewalk. What it has is a different
 answer to a single question — *whose day is this* — and the answer changes what it does with every
 hour in it, without changing one visible fact about the hour. And even that is the door and not the
-room; what is on the far side of a will given over is not this essay's to argue.
+room; what is on the far side of a will given over is not mine to argue.
 
 And that answer is not a sentence anybody has to be able to say. I have argued at length in [*The
 Highest Peak*](https://elmuffin.substack.com/p/the-highest-peak) that the criterion is the
@@ -183,7 +182,7 @@ know them, are not operating there: not that cruelty and kindness have stopped d
 the rating of what God wills was never our office, and a self that exists to hold the office
 cannot stay in a room where the office does not exist.
 
-Which is not the same as being kept out, and the difference matters at the end of this essay. The
+Which is not the same as being kept out, and the difference matters at the end. The
 way is open to everyone; nothing was withheld and nobody was screened. **A person can be standing
 on the road and not walking it**, and that's the ordinary condition, and it is mine on most days.
 
@@ -304,7 +303,7 @@ case. The crossing is the other thing that essay named: belief-**in** rather tha
 which is a vow and not a verdict. You do not conclude your way into it. You say it, and then you
 are the one who said it.
 
-Which puts the obvious question to this essay. *You have just argued that argument cannot cross the gulf. What,
+Which puts the obvious question back. *You have just argued that argument cannot cross the gulf. What,
 precisely, do you think you are doing?*
 
 Fair. And the answer is not that this one is special. **I'm not trying to walk anybody across.** I
@@ -325,7 +324,7 @@ character.
 So I stopped, and went and did something else. I volunteered at Odd Man Inn, a farmed-animal sanctuary in
 Washougal — a place where the most-used animals in the world are simply allowed to live out their
 lives. I built
-shelters. I raised fences — the other kind, the kind built so that something can be left alone
+shelters. I raised fences — the other kind, the kind built so that someone can be left alone
 inside it. I shoveled pig poop, which is more of the work than anyone tells you. Nobody was persuaded of anything at a fence post. Nobody walked past and was
 converted. It was, by the only metric I had been using on that sidewalk, a total collapse in reach.
 
@@ -381,7 +380,7 @@ self-sealing.
 
 ## VIII. Three Ways This Becomes Cruel
 
-Three things can be done with this essay that would make it worth not having written.
+Three things can be done with this that would make it worth not having written.
 
 **(a) "Good — then I'm on the right one."**
 
@@ -411,7 +410,7 @@ onto the far side of a line marked *evil* is a different operation entirely. You
 with total seriousness and never do the second. The test that essay put on the table is one I'll
 take on this one: **any use of these ideas that makes it easier to hurry a survivor, to hush a
 victim, or to spare a perpetrator the naming of what he did has inverted the argument into its
-enemy.** If a reader can turn this essay into a muzzle, I've written it badly, and I would rather
+enemy.** If a reader can turn any of it into a muzzle, I've written it badly, and I would rather
 know.
 
 And the biography refuses the quietist reading without my help. The sanctuary was not withdrawal
@@ -534,7 +533,7 @@ essay's argument and not this one's.
 It is the title of the last book of the New Testament and the root of the English *apocalypse*,
 which has traveled a long way from it. I mention the derivation because a torn curtain is a
 strikingly literal instance of it, and I am leaning on it for nothing: what a word was modeled on
-is not what a sentence means, and no claim in this essay rests on the etymology. Nothing here draws
+is not what a sentence means, and no claim here rests on the etymology. Nothing here draws
 on Revelation's imagery or its sequence, which belong to a different argument.
 
 [^gavel]: The image reads the fall as the taking of a *seat* — a verdict seized that was never

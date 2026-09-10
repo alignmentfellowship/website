@@ -16,7 +16,7 @@ hero:
     page describes.
   width: 1484
   height: 1060
-digest: sha256:5db7db5cbdcc723a71d89121ae02b4a6f4f850cad63f62e04c87138c0e26c314
+digest: sha256:a5aa411f1ebb33c6f04d73063630f93bfbae2422a226972477ef3b3916137686
 ---
 
 ## I. The Tradition That Guards Our Own First Premise
@@ -27,8 +27,8 @@ a Christian is not supposed to make.
 Of all the world's traditions, the one that holds the first premise of the Christian mystics
 most fiercely — and turns it most pointedly against the Christian claim itself — is Islam.
 
-I do not mean that the two religions agree. They do not, and I am going to spend a good part of
-this essay on the exact place they come apart, and I am not going to soften it. I mean something
+I do not mean that the two religions agree. They do not, and I am going to spend a good part of what
+follows on the exact place they come apart, and I am not going to soften it. I mean something
 narrower and stranger. There is a sentence that the deepest Christian account of God rests on —
 that the Maker is not one more item inside the made world, not a very large object standing
 beside the other objects, not a character you could meet on a road in the story. And there is no
@@ -70,10 +70,10 @@ same God. I think they are — there cannot be two infinites, and *Allah* is sim
 for God, the one an Arabic Bible uses in its first verse — but that is a separate argument, made
 at length in [*Jealous of a Calf*](https://elmuffin.substack.com/p/jealous-of-a-calf), and I am
 going to lean on its conclusion rather than rebuild it here.[^calf] Take it as granted or take it as owed; either way,
-this essay begins after it.
+the argument begins after it.
 
 The second, and more important: this is not the essay that says it is all one underneath. It is
-close enough to that essay to be mistaken for it, so let me put the distance on the page early. I
+close enough to that essay to be mistaken for it, so the distance goes on the page early. I
 have written, in [*Krishna Is Not Christ*](https://elmuffin.substack.com/p/krishna-is-not-christ),
 against exactly the lazy syncretism that stirs the traditions into one gray paste and calls the
 result tolerance; that essay ends by insisting the great devotions do not arrive at the same
@@ -85,7 +85,7 @@ footnote, I have failed.
 
 Islam guards our first premise. It guards it with three great denials, and the
 denials are usually read as three separate offenses against Christian doctrine — no Son, no
-Trinity, no cross. I want to propose that they are not three. They are one grip, closing on one
+Trinity, no cross. But they are not three. They are one grip, closing on one
 truth, three times. And once you see them as one grip, two of the three turn out to be guarding a
 door the gospel also guards, while the third is the only one where the disagreement is about a
 fact and not an interpretation — the only place the road truly forks. That is worth far more than
@@ -150,14 +150,14 @@ sentence he said, and about whether there is any way for that sentence to be tru
 
 ## III. The Words Are Identical
 
-Here is the claim this essay balances on, and I am going to state it before I defend it: the
+Here is the claim everything balances on, stated before it is defended: the
 gospel and the Qur'an are not, on the sonship, holding two incompatible views of one sentence.
 They hold the same view of the sentence — the same test for when it damns and when it saves — and
 divide only on the verdict it returns for the one man who said it.
 
 Go back to *aham brahmasmi*, "I am Brahman," and to the knife's edge I said everything balanced
 on. Said by the ego standing up to claim its godhood, it is the oldest lie. Said by the ego seen
-all the way through — the self so completely surrendered that the only one left to say the word is
+all the way through — the self so completely surrendered that the only One left to say the word is
 the God who was speaking through it the whole time — it is the truth, and it has been said that way once. For the rest of us the true form of the sentence is smaller and is not *I am*; it is *I am Theirs*. **The words are identical. Everything turns on who is left to say them.**
 
 Now put the sentences that got Jesus killed against that edge. *I and My Father are one. Before
@@ -169,8 +169,8 @@ be refused.
 
 But the gospel's entire claim is that it is not who is saying them. The same mouth that said *I
 and My Father are one* said, and said relentlessly, the opposite of a man reaching for anything:
-*The Son can do nothing of himself. I seek not mine own will, but the will of the Father. My
-doctrine is not mine, but his that sent me.*[^kenosis] Every sentence hands the power, the
+*The Son can do nothing of Himself. I seek not Mine own will, but the will of the Father. My
+doctrine is not Mine, but [Theirs] that sent Me.*[^kenosis] Every sentence hands the power, the
 teaching, the very act, upward and away. This is not a man climbing toward the throne. It is a man
 emptying himself of everything, himself included, until — and this is the Christian claim in one
 line — there is no self of his own left to occupy the words, and the only *I* still standing in
@@ -178,8 +178,7 @@ them is the Father's. The most audacious sentence in history, said not by the fu
 the most emptied one. The pen handed *back* so completely that the Author could take up the whole
 of the story in that one hand.
 
-Islam cannot hear that second reading. And here is the thing I want to say plainly, because it is
-the opposite of a rebuke: Islam is *right not to trust it.* From the outside, the two readings are
+Islam cannot hear that second reading. And this next part is the opposite of a rebuke: Islam is *right not to trust it.* From the outside, the two readings are
 indistinguishable. The words are identical. There is no test you can run on a man's sentence to
 tell whether the *I* in it is the ego swollen to bursting or the ego gone entirely — and the
 history of religion is a long parade of the first kind swearing they were the second. Every
@@ -240,8 +239,8 @@ The third denial is the cross. *They slew him not nor crucified him, but it appe
 them.*[^nisa] The Qur'an denies that Jesus was crucified.
 
 And here the picture I have been building does not reach across the gap. It stands on the far side
-of it, and I want to say so before I do anything else, because the temptation of an essay like this
-one is to make all three denials fold up neatly into the frame, and this one will not fold, and it
+of it, and that is said first, because the temptation of an essay like this one is to make all
+three denials fold up neatly into the frame, and this one will not fold, and it
 should not be made to.
 
 The essay this whole reading grows out of is, at its core, the most anti-illusion argument I know
@@ -292,7 +291,7 @@ happening.
 
 The split is over what to do with the appearance. **The Qur'an corrects the false appearance by
 unmaking the event** — if the defeat cannot be real, then the death cannot be real; He was not
-crucified, it only seemed so, God lifted him clear. **The gospel corrects the false appearance by
+crucified, it only seemed so, God lifted Him clear. **The gospel corrects the false appearance by
 keeping the event and turning it inside out** — the death was utterly real, and the defeat the eyes
 saw was the exact shape of the rescue; the losing *was* the winning; the descent to the lowest
 place was the road home, and there was no other. One tradition saves the prophet by lifting him
@@ -368,7 +367,7 @@ the door.
 
 ## VII. The Sentence Islam Is Named After
 
-I said at the start that this essay begins after the question of whether the two traditions are
+I said at the start that the argument begins after the question of whether the two traditions are
 pointed at the same God, and lands somewhere else. Here is where it lands, and I have been walking
 toward it the whole time.
 
@@ -396,8 +395,8 @@ one thing both of my essays said was the whole of it, the thing you do tonight, 
 civilization organized around the bend of the will toward God is organized around the gesture the
 gospel puts at its own center and calls the way home.
 
-I want to be careful with this, more careful than the symmetry wants me to be, because it is the
-place where an essay like this tips over into saying more than it has earned. I am not saying the
+This wants more care than the symmetry does, because it is the place where an essay like this
+tips over into saying more than it has earned. I am not saying the
 two faiths are the same faith with different furniture; the last four movements were spent showing
 they are not, and the cross stands between them unmoved. I am not issuing anyone a verdict — not
 the Muslim at prayer, not the Christian in the pew — because the whole of [*The Highest Peak*](https://elmuffin.substack.com/p/the-highest-peak) was a
@@ -435,7 +434,7 @@ Wording checked against corpus.quran.com's Pickthall; not against print.
 I.11.3), that *Allah* is the Arabic word for God cognate with the Hebrew *Eloah* and the Aramaic
 *Alāhā* Jesus would have used, and that the Qur'an itself tells believers *our Allah and your Allah
 is One* (29:46, Pickthall's own rendering of the word as *Allah*) — is made in the companion essay named in the body.
-This essay grants its conclusion and does not rebuild it.
+That conclusion is granted here and not rebuilt.
 
 [^ikhlas2]: Qur'an 112:3, Pickthall: *"He begetteth not nor was begotten."* Checked against
 corpus.quran.com's Pickthall; not against print.

@@ -14,7 +14,7 @@ hero:
     ground beside it, one resting his head on his knees
   width: 1484
   height: 1060
-digest: sha256:4f7c640465d05d276253c4325475929621eb5b505f11fab91561ba60ad1ee055
+digest: sha256:5415ee08cd9620040b2ebf7138713c0feab94b0fe74bf26c8774b3bb6b1cec1e
 ---
 
 ## I. The Bench
@@ -33,7 +33,7 @@ world that I was smart, because being smart was how, as a child, I had learned t
 achievement had never been about the work. It was a bill I had been paying for the right to be
 loved at all.
 
-I start there because it is the cleanest specimen I own of the thing this essay is about, and
+I start there because it is the cleanest specimen I own of the thing in question, and
 the thing turns out to be very old.
 
 We are told the trouble started with a piece of fruit, and we are usually told it wrong. The
@@ -45,7 +45,7 @@ The bench, the gavel, the verdict. To eat was to climb onto a judge's chair that
 and take, by grasping, the deciding of good and evil that belonged to Someone else.
 
 The sin was never that verdicts exist, that there are real accounts, that wrongs are done, that
-some things are truly owed. All of that is real, and much of this essay will insist on it. The
+some things are truly owed. All of that is real, and much of what follows insists on it. The
 sin was reaching for the gavel: taking into a private hand the rendering of the verdict. The
 problem was never the ledger. The problem was the gavel. And the ache the gavel is trying to
 soothe is never cured by pretending nothing is owed, because that is the same theft, turned
@@ -211,8 +211,8 @@ God, see the note at Part IX.
 
 ## IV. The Friends, and the Seven Days
 
-Which brings us to the one book in the canon that is entirely about a man on trial for
-nothing, and the friends who could not bear to let him be. If you have read the book of Job as
+There is one book in the canon entirely about a man on trial for nothing, and the friends
+who could not bear to let him be. If you have read the book of Job as
 the story of three villains, you have missed the most frightening thing in it, which is that
 the friends are us, at our most sincere and most religious. I know them from both sides now. I
 spent years being the confident explainer myself, only my system filed *believers* under
@@ -418,7 +418,7 @@ Atrocity is the grasp in its terminal form. The torturer sits maximally on the s
 about: the torturer has decided that this person is available, that their pain does not
 signify, that a verdict may be written directly onto a human body. And yes, I have argued all
 essay that a grasp of that kind is a starving heart doing what the void makes people do, and I
-hold to it. But hear the next sentence, because it is the most load-bearing thing in the essay.
+hold to it. But hear the next sentence, because everything else rests on it.
 It *explains* the torturer. It does not *excuse* the torturer, and it does not lay the smallest
 obligation on the person the torturer destroyed. I know how the rest of this can be used, *they
 were hurt too, can't you find some compassion*, and the answer, on behalf of the one who was
@@ -540,7 +540,7 @@ soul whose case is not before our court.
 Here is the test I am asking you to hold me to, since I am asking you to trust an argument
 made by a man with an obvious motive to believe it: any use of these ideas that makes it easier
 to hurry a survivor, to hush a victim, or to spare a perpetrator the naming of what was done
-has inverted the argument into its enemy. If you can turn this essay into a muzzle, I have
+has inverted the argument into its enemy. If you can turn any of this into a muzzle, I have
 written it badly, and I would rather know.
 
 ---

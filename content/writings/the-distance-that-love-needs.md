@@ -1,7 +1,6 @@
 ---
 slug: the-distance-that-love-needs
 title: The Distance That Love Needs
-source_slug: distinction
 subtitle: Why we are separate enough to love God.
 published_at: 2026-08-29
 footnotes: native
@@ -15,7 +14,7 @@ hero:
     in the gap between them
   width: 1536
   height: 1024
-digest: sha256:1742312f86eeaccf2c71d224674b258f386f7e9ae7dc552b0544e30ad59bdbc6
+digest: sha256:d6ce7404048a316be7358f96cacd779914fe133ef8d809a83c285617bd803b27
 ---
 
 ## I. The wish that would end the thing it wants
@@ -35,8 +34,7 @@ someone to a someone else, and the gap is not the enemy of the sentence. The gap
 sentence is for. Close it all the way and you have not perfected the love; you have abolished one
 of the two people it needed.
 
-I want to sit inside that paradox, because I think it is a small window onto the largest fact of
-our lives — the one so constant we stop seeing it as a fact at all. We experience ourselves as
+That paradox is worth sitting inside: it is a small window onto the largest fact of our lives — the one so constant we stop seeing it as a fact at all. We experience ourselves as
 separate. Separate from each other, and, underneath that, separate from God: a single self,
 sealed in a single skin, looking out through two eyes at an immensity that is not us. Nearly every
 spiritual tradition has treated that separateness as the wound — the thing to be healed, dissolved,
@@ -50,8 +48,8 @@ enough to love Them.
 
 ## II. The problem I have to answer first
 
-I owe you the strongest form of the opposite case before I lay a finger on it, and the strongest
-form is one I built.
+The strongest form of the opposite case comes first, before I lay a finger on it, and the
+strongest form is one I built.
 
 I have argued it at length — most fully in [*The Knowledge of Good and
 Evil*](https://elmuffin.substack.com/p/the-knowledge-of-good-and-evil) and in [*The Novelist
@@ -77,7 +75,7 @@ summit. It is retired. The two that it needed have become one, and one thing, al
 itself, cannot love. It can only be.
 
 So something is wrong with the picture, or at least unfinished, and finding what's wrong is the whole
-of this essay. The wrongness is not in the oneness. It is in a word I have been letting do two
+of it. The wrongness is not in the oneness. It is in a word I have been letting do two
 different jobs — a word that means, on one page, the wound, and on the next page, the design.
 
 ## III. Distinction is not separation
@@ -89,7 +87,7 @@ There is *separation*, and separation is the wall. It is the self mistaking itse
 source — sealed, defended, sure the boundary it feels is the edge of the world. It is the posture
 that sorts everyone else onto the far side of a line, that meets the other as a rival or a
 resource, that goes out into the world with a lack in its hands trying to *get*. That is the thing
-the mystics are right to want gone. It is the thing my other essays were built to take down, and I
+the mystics are right to want gone. It is the thing I have spent essays taking down, and I
 would take it down again tonight. Separation is real, and it is the whole architecture of our
 loneliness, and there is nothing to be said for it.
 
@@ -119,8 +117,8 @@ lose the one has lost the other with it.
 
 ## IV. Union is not merger
 
-The oldest and best image for the thing I am refusing is the drop and the sea, and I want to take
-it back one careful step from where the mystics usually leave it.
+The oldest and best image for the thing I am refusing is the drop and the sea, taken one careful
+step back from where the mystics usually leave it.
 
 The drop of water, the teaching goes, imagines itself a separate thing, a little private life with
 its own edge — and the whole of wisdom is to see through that, to let the edge go and fall home
@@ -238,9 +236,9 @@ thing outside its circle. The tradition has a heavy word for the whole condition
 not name a list of forbidden acts. It names this: a self curved so far in on its own separateness
 that it has forgotten the distance was ever for anything but defense.
 
-And I want to be careful not to solve this too fast, because the two errors stand on either side of
-the narrow truth and both are always waiting. On the one side is the wall — separation dressed as
-selfhood, the ego sure it is its own god, and this is the error my other essays spent themselves
+This is not to be solved too fast: the two errors stand on either side of the narrow truth and
+both are always waiting. On the one side is the wall — separation dressed as
+selfhood, the ego sure it is its own god, and this is the error I have spent essays
 against, and it is real, and it is most of hell. But on the other side is the correction that
 overcorrects: the flight into a oneness so total that the two disappear, the drop diving for the sea
 to be rid of the loneliness by being rid of the self — and this buys peace at the price of the
@@ -251,7 +249,7 @@ the fortress nor the featureless sea — a face, at last, turned fully toward th
 love, with the wall gone and the two remaining.
 
 That is not a state I can hand you a technique for, and I distrust anyone who says otherwise, myself
-included on my worse days. I can only say what shape the mending has, which is the last thing.
+included on my worse days. I can only say what shape the mending has.
 
 ## VIII. Face to face
 

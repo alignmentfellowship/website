@@ -14,7 +14,7 @@ hero:
     and a cross lit at the top of the steps beyond
   width: 1493
   height: 1054
-digest: sha256:ff22aff8374b707126bd6fd08fe29e0b89f8424fc963c1079d36e220ade275d5
+digest: sha256:b65c355b062692ba1d9dd8d4d30c1b5208c3c9af655eddf3747ccc7043055038
 ---
 
 ## I. I Believe in You
@@ -33,8 +33,8 @@ Now set another sentence beside it: *I have faith in you.* Notice that it means 
 thing. Not something close; the same thing. You could swap them at the door of the operating
 room and lose nothing. Two of the most ordinary sentences in the language, and neither one is
 about whether anybody exists — and the two are interchangeable. That is a strange fact to sit
-still under, and I want to sit under it, because almost everything that has gone wrong in the
-last two centuries of arguing about God is folded up inside it.
+still under, and worth sitting under: almost everything that has gone wrong in the last two
+centuries of arguing about God is folded up inside it.
 
 Here is the trouble in one line. There is another way we use the word *believe*, and it is not
 this way at all, and we have let the two collapse into one. *I believe it's going to rain.
@@ -48,7 +48,7 @@ But that is not what the words are doing when a mother says them to a child at t
 line. And it was never what they were doing in the mouth of the tradition that built its whole
 life on them. The person who first wrote *I believe in God* was not rating a probability. He
 was doing what you do at an altar. The word for that thing has a history, and we have lost it,
-and losing the word cost us the thing. This essay is an attempt to find it again — starting
+and losing the word cost us the thing. What follows is an attempt to find it again — starting
 from the one sentence you have already said, and already meant.
 
 ---
@@ -137,8 +137,8 @@ a gambler says at a table.
 One more word, the most important one, because the whole tradition put it first. The creeds do not
 begin *I have concluded that.* They begin *credo* — *I believe* — and *credo* is built on *cor*,
 the Latin for **heart** (the same root under *cordial*, and *courage*, and *record*).[^5] To say
-*credo* is to do something with the heart. Here is where I owe you the second piece of honesty,
-because there is a cherished gloss that says *credo* is *cor* plus *do*, "I **give** my heart,"
+*credo* is to do something with the heart. Here is the second piece of honesty. There is a
+cherished gloss that says *credo* is *cor* plus *do*, "I **give** my heart,"
 and it is very nearly right and not quite. The second half of the word is not the verb *to give*;
 it is an older root meaning *to place, to set, to put.*[^6] So the accurate rendering is a shade
 less sentimental and, I think, better: not *I give my heart* but *I set my heart on* — *I put my
@@ -331,15 +331,15 @@ invisible, not a licensing of the unevidenced.
 
 ## VII. The Two Who Make the Same Mistake
 
-Now let me put the strongest possible version of the other side on the table, in its own words,
-because if I am right it is not only wrong but wrong in a way that reveals the whole confusion at
+Now the strongest possible version of the other side, in its own words, because if I am right
+it is not only wrong but wrong in a way that reveals the whole confusion at
 once.
 
 Richard Dawkins has said it as well as anyone, and he has said it more than once, so it is fair to
 take it as his settled view: *"Faith is the great cop-out, the great excuse to evade the need to
 think and evaluate evidence. Faith is belief in spite of, even perhaps because of, the lack of
-evidence."*[^15] I want to concede this fully, because a great deal of it is true and the
-concession costs me nothing. There really are people who use the word *faith* to mean precisely
+evidence."*[^15] Concede it fully: a great deal of it is true and the concession costs me
+nothing. There really are people who use the word *faith* to mean precisely
 that — the willed holding of an improbable belief in defiance of the evidence, with the strain of
 the holding counted as a virtue and the demand for evidence treated as the sin. That faith exists.
 It is common. And it deserves every word of Dawkins's scorn; I have no interest in defending it,
@@ -386,8 +386,8 @@ her hand but because she has decided, freely, where to place her heart. *I do* i
 its purest human form. And it is, to the letter, the word the tradition used for faith in God.
 Faith is the *I do*, said to the One you cannot see.
 
-Let me add one last thing, and lay it down lightly, because it is the deepest reading and I do not
-want to freight the close with it. The tradition's own central phrase for the faith that saves —
+One last thing, laid down lightly, because it is the deepest reading and the close should not be
+freighted with it. The tradition's own central phrase for the faith that saves —
 *pistis Christou* — is grammatically ambiguous in a way that has kept scholars busy for fifty
 years, and one of the two readings is quietly enormous.[^16] It can mean *faith in Christ* — our
 trust, directed at Him. But it can also mean *the faith of Christ* — His own faithfulness, His own

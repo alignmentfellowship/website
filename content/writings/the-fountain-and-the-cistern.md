@@ -1,7 +1,6 @@
 ---
 slug: the-fountain-and-the-cistern
 title: The Fountain and the Cistern
-source_slug: made-with-hands
 subtitle: An idol is not a false god. It is an arrested one.
 published_at: 2026-09-03
 footnotes: native
@@ -15,7 +14,7 @@ hero:
     a cracked, empty cistern with a broken jar beside it.'
   width: 1484
   height: 1060
-digest: sha256:a445724e2c3cbc6242b50d7a5c12bac3efe550356ec37f5f8a063e8c1e74ef70
+digest: sha256:d9cc46c0a0ebc6860d53b876a72c76a38f07ddd2d57554d8a58f0d303b6c6c84
 ---
 
 ## I. The stone that outlived the temple
@@ -47,7 +46,7 @@ would happen.
 
 The fence is in excellent condition.
 
-That last fact is not an irony. It's the subject of this essay.
+That last fact is not an irony. It's the subject.
 
 ## II. The word Stephen used
 
@@ -75,7 +74,7 @@ claim is not about the language. It's about the register — about what that par
 *for* in the particular books these particular men had memorized. In the Septuagint it is an
 idol-word, and the man saying it knew exactly whose ears it was landing in.
 
-So the accusation at the center of this essay is not one I'm bringing to the tradition. It's one
+So the accusation at the center of it is not one I'm bringing to the tradition. It's one
 the tradition made about itself, out loud, at the top of its voice, and it killed the man who made
 it.
 
@@ -268,14 +267,14 @@ broken.** Not because it was a fraud. Because it had stopped moving, and the peo
 had not noticed.
 Because it wasn't. Something has to be genuinely good before anyone will burn incense to it.
 
-Which is why this essay is not an attack on the church and can't be made into one without
+Which is why none of this is an attack on the church, and can't be made into one without
 misreading it on purpose. **You can't make an idol out of nothing. You make it out of what worked.**
 The argument requires that the container was really given, or there's nothing to be arguing about.
 
 The nearer instance is the calf at Sinai, hailed with the LORD's own name over an altar, and
 [*Jealous of a Calf*](https://elmuffin.substack.com/p/jealous-of-a-calf) has it. One distinction
 matters here: the calf is a thing the people made. The serpent is a thing God gave. The church claims to be the second kind, which is why the second kind
-is the one this essay has to reason about.
+is the one to reason about.
 
 ## VII. The schoolmaster whose job ends
 
@@ -392,7 +391,7 @@ letter arguing that gentiles don't have to become Jews. It is not a verdict pass
 
 Judaism didn't stop developing in the first century, and treating it as though it did is the actual
 error being committed. The rabbinic tradition ran this same argument on itself, harder than
-anything in this essay: there's a famous dispute in which a heavenly voice endorses one rabbi's
+anything here: there's a famous dispute in which a heavenly voice endorses one rabbi's
 position and the majority rules that a heavenly voice doesn't get a vote, because *it is not in
 heaven.*[^akhnai] The tradition that supposedly stayed in first grade wrote that down.
 
@@ -413,12 +412,12 @@ wouldn't. I have the ranking. I didn't build it deliberately and I couldn't put 
 wanted to. There's a room I walked out of feeling that God was nearer there than anywhere, and
 another I walked out of thinking that whatever was happening in it had gotten a long way from Him.
 
-That's the fence. That's the whole argument of this essay, running in the man writing it, and it
+That's the fence. That's the whole argument, running in the man writing it, and it
 didn't need a balustrade or an inscription or a court of stonemasons. It needed a Sunday and an
 opinion.
 
 So the objection is half right, and the half that's right doesn't get me out of anything.
-Resentment is available to me — there's a version of this essay that's just a man settling up with
+Resentment is available to me — there's a version of all this that's just a man settling up with
 a room that made him feel small. And so is the flattering version, which is worse, and which is the
 one I'd actually reach for: the version where the fence stays exactly where it is and my church is
 the one inside it. **I'm not standing outside this. I'm a man who found God in a room and started

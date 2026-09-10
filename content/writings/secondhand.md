@@ -1,7 +1,6 @@
 ---
 slug: secondhand
 title: Secondhand
-source_slug: hearing-firsthand
 subtitle: He didn't lose an argument with God. He handed the question to somebody else.
 published_at: 2026-09-03
 footnotes: native
@@ -15,7 +14,7 @@ hero:
     the road, a hill town on the ridge behind them.
   width: 1484
   height: 1060
-digest: sha256:a56aeb87c844a90005beceff2044dda2c103cdb71afdb87f77580371fde508cc
+digest: sha256:e7461a85eb28cc7615bb9fd9c389eca891b140c4c1fde1a68e0ffa5da8aa85ec
 ---
 
 ## I. Under the oak
@@ -200,7 +199,7 @@ instruction that concerned nobody but himself, about his own bread, and there wa
 table for anyone else to weigh. What he submitted to review wasn't a claim. It was an obedience.
 
 **The second: so you're telling me to trust myself and ignore everyone.** No. And a careless version
-of this essay is genuinely dangerous.
+of it is genuinely dangerous.
 
 Nothing in this chapter is an argument against counsel, against elders, against people who have
 walked it longer telling you what they saw, or against a circle of folding chairs on a weekday
@@ -374,7 +373,7 @@ The man was under that oak for a while before the old man rode up. It's the last
 he is alone with an instruction he could still keep.
 
 [^kings13]: 1 Kings 13 throughout, KJV. The chapter is short enough to read in one sitting and it
-    repays it; almost everything in this essay is in the plain sense of the text rather than behind
+    repays it; almost everything here is in the plain sense of the text rather than behind
     it. Quotations here follow the King James, with deity pronouns capitalized per this
     publication's convention — the King James lowercases them, and the capitals are mine.
 
