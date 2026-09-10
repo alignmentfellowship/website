@@ -79,7 +79,7 @@ export default async function Piece({ params }: { params: Promise<{ slug: string
         */}
         <div className="prose">
           <Prose resolveUrl={(src) => src.replace('../images/', '/images/')}>
-            {w.plain}
+            {w.body}
           </Prose>
         </div>
 

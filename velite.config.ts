@@ -1,6 +1,4 @@
 import { defineConfig, defineCollection, s } from 'velite'
-import remarkGfm from 'remark-gfm'
-import rehypeSlug from 'rehype-slug'
 
 // The schema IS the contract with scriptorium's bundle spec (framework/docs/BUNDLE.md).
 // A malformed export fails the build here rather than shipping a broken page — which is
@@ -34,8 +32,10 @@ const writings = defineCollection({
       hero: image.optional(),
       images: s.array(image).default([]),
       digest: s.string(),
-      content: s.markdown(),
-      plain: s.raw(),
+      // The markdown source. Rendering now happens through quire, the renderer shared
+      // with the other sites, so velite compiles nothing — it validates the front
+      // matter, which is the half of its job that matters here.
+      body: s.raw(),
     })
     .transform((d) => ({ ...d, url: `/writings/${d.slug}` })),
 })
@@ -44,8 +44,4 @@ export default defineConfig({
   root: 'content',
   output: { data: '.velite', clean: true },
   collections: { writings },
-  markdown: {
-    remarkPlugins: [remarkGfm],
-    rehypePlugins: [rehypeSlug],
-  },
 })
