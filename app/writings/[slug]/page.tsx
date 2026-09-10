@@ -2,28 +2,28 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { Prose } from 'quire'
 import { notFound } from 'next/navigation'
-import { writings } from '#site/content'
+import { store, listWritings, REVALIDATE } from '@/lib/store'
 import { NAME } from '@/lib/fellowship'
 
-export function generateStaticParams() {
-  return writings.map((w) => ({ slug: w.slug }))
-}
+// Must be a literal: Next reads segment config statically, so an imported constant is
+// silently not applied. Kept equal to REVALIDATE in @/lib/store.
+export const revalidate = 60
 
-function find(slug: string) {
-  return writings.find((w) => w.slug === slug)
+export async function generateStaticParams() {
+  return (await listWritings()).map((w) => ({ slug: w.slug }))
 }
 
 export async function generateMetadata(
   { params }: { params: Promise<{ slug: string }> }
 ): Promise<Metadata> {
-  const w = find((await params).slug)
+  const w = await store.getPiece((await params).slug)
   if (!w) return {}
   return {
     title: w.title,
     description: w.subtitle,
     // This site is the piece's home, so the canonical points here. `syndicated`
     // records where else it lives without making either copy a mirror.
-    alternates: { canonical: w.url },
+    alternates: { canonical: w.canonical ?? `/writings/${w.slug}` },
     openGraph: {
       title: w.title,
       description: w.subtitle,
@@ -38,7 +38,7 @@ export async function generateMetadata(
 }
 
 export default async function Piece({ params }: { params: Promise<{ slug: string }> }) {
-  const w = find((await params).slug)
+  const w = await store.getPiece((await params).slug)
   if (!w) notFound()
 
   const date = new Date(w.published_at).toLocaleDateString('en-US', {
@@ -65,7 +65,7 @@ export default async function Piece({ params }: { params: Promise<{ slug: string
         {w.hero && (
           <figure className="hero">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={w.hero.src} alt={w.hero.alt} width={w.hero.width} height={w.hero.height} />
+            <img src={store.resolveUrl(w.hero.src)} alt={w.hero.alt} width={w.hero.width} height={w.hero.height} />
           </figure>
         )}
 
@@ -76,17 +76,20 @@ export default async function Piece({ params }: { params: Promise<{ slug: string
           No classNames are passed on purpose: this site styles prose with a `.prose`
           CSS block that targets elements, and quire emits those elements — the styling
           written for velite's HTML applies unchanged.
+
+          resolveUrl points at the store: a bundle never names a host, and this is the
+          one place that is undone.
         */}
         <div className="prose">
-          <Prose resolveUrl={(src) => src.replace('../images/', '/images/')}>
+          <Prose resolveUrl={store.resolveUrl}>
             {w.body}
           </Prose>
         </div>
 
-        {w.syndicated.length > 0 && (
+        {(w.syndicated?.length ?? 0) > 0 && (
           <p className="meta" style={{ marginTop: '4rem' }}>
             Also published at{' '}
-            {w.syndicated.map((s, i) => (
+            {w.syndicated!.map((s, i) => (
               <span key={s.url}>
                 {i > 0 && ', '}
                 <a href={s.url}>{s.platform}</a>

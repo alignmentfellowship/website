@@ -2,9 +2,10 @@
 """make-og.py — build the 1200x630 link-preview images.
 
 WHY THESE ARE FILES AND NOT GENERATED AT REQUEST TIME
-  The site is a static export: there is no server to render an image on demand. That
-  is the same property that lets it redeploy anywhere, so the images are built here and
-  committed like any other asset.
+  They need Pillow and a system serif — see WHERE THIS RUNS — so they are built here
+  and committed like any other asset. (They predate the site rendering per request,
+  but the reason has outlived the static export: the deploy host still cannot make
+  them.)
 
 WHY JPEG
   The essays' own images are WebP, which is right for the page and wrong for a link
@@ -24,9 +25,19 @@ WHERE THIS RUNS
   committed like any other asset, so a deploy just serves it. Re-run after content
   changes: `npm run og`.
 
+WHERE THE CONTENT COMES FROM
+  The content store, since 2026-09-10 — the same place the site reads. It used to be
+  content/writings/*.md, vendored into this repo; that directory is gone, and reading
+  a stale copy would quietly build previews for the wrong text. Override the store
+  with $STORE_URL.
+
 USAGE
   python3 scripts/make-og.py
 """
+import io
+import json
+import os
+import urllib.request
 import pathlib
 import re
 import sys
@@ -134,38 +145,48 @@ def from_hero(path):
     return im.crop((left, top, left + W, top + H))
 
 
-def front_matter(md_path):
-    text = md_path.read_text()
-    if not text.startswith("---"):
-        return {}
-    block = text.split("---", 2)[1]
-    out, key = {}, None
-    for line in block.split("\n"):
-        m = re.match(r"^(\w+):\s*(.*)$", line)
-        if m:
-            key = m.group(1)
-            out[key] = m.group(2).strip()
-        elif key == "hero" and "src:" in line:
-            out["hero_src"] = line.split("src:", 1)[1].strip()
-    return out
+STORE = os.environ.get("STORE_URL", "https://d31t97x2b4k0q3.cloudfront.net")
+OUTLET = "alignmentfellowship"
+
+
+def store_pieces():
+    """Every piece this site publishes, read from the store the site itself reads."""
+    with urllib.request.urlopen(f"{STORE}/index.json") as r:
+        index = json.load(r)
+    for entry in sorted(index["pieces"], key=lambda p: p["slug"]):
+        if OUTLET not in entry.get("outlets", []):
+            continue
+        with urllib.request.urlopen(f"{STORE}/pieces/{entry['slug']}.json") as r:
+            yield json.load(r)
+
+
+def fetch_image(src):
+    """A hero, as a file-like object. Bundle paths are relative; the store resolves them."""
+    url = f"{STORE}/{src.lstrip('/').removeprefix('../')}"
+    try:
+        with urllib.request.urlopen(url) as r:
+            return io.BytesIO(r.read())
+    except Exception as e:                                        # noqa: BLE001
+        print(f"  warning: {src} — {e}")
+        return None
 
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     made = {"hero": 0, "card": 0}
 
-    for md in sorted((ROOT / "content" / "writings").glob("*.md")):
-        fm = front_matter(md)
-        slug = fm.get("slug") or md.stem
-        hero = fm.get("hero_src")
+    for piece in store_pieces():
+        slug = piece["slug"]
         dest = OUT / f"{slug}.jpg"
+        hero = (piece.get("hero") or {}).get("src")
         if hero:
-            src = ROOT / "public" / hero.lstrip("/")
-            if src.exists():
+            src = fetch_image(hero)
+            if src:
                 from_hero(src).save(dest, "JPEG", quality=86, optimize=True)
                 made["hero"] += 1
                 continue
-        card(fm.get("title") or slug, fm.get("subtitle")).save(
+        fm = piece
+        card(piece.get("title") or slug, piece.get("subtitle")).save(
             dest, "JPEG", quality=90, optimize=True
         )
         made["card"] += 1

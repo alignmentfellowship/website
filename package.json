@@ -3,22 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "velite && next dev",
-    "build": "velite && next build",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
-    "import": "bash scripts/import-bundle.sh",
     "og": "python3 scripts/make-og.py"
   },
   "dependencies": {
     "next": "^16.3.4",
-    "quire": "github:ericgarcia/quire#v0.3.1",
+    "quire": "github:ericgarcia/quire#v0.6.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@types/node": "^26.5.0",
     "@types/react": "^19.2.18",
-    "typescript": "^7.0.2",
-    "velite": "^0.4.0"
+    "typescript": "^7.0.2"
   }
 }

@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { writings } from '#site/content'
+import { listWritings } from '@/lib/store'
 import library from '@/content/library.json'
 import { NAME } from '@/lib/fellowship'
 
@@ -14,8 +14,10 @@ export const metadata: Metadata = {
 type Entry = { slug: string; title: string; subtitle: string | null; published: boolean }
 type Group = { title: string; entries: Entry[] }
 
-export default function Writings() {
-  const have = new Map(writings.map((w) => [w.slug, w]))
+export const revalidate = 60
+
+export default async function Writings() {
+  const have = new Map((await listWritings()).map((w) => [w.slug, w]))
 
   return (
     <main>
@@ -48,7 +50,7 @@ export default function Writings() {
                 )
               }
               return (
-                <Link className="entry" href={piece.url} key={e.slug}>
+                <Link className="entry" href={`/writings/${piece.slug}`} key={e.slug}>
                   <div className="entry-title">{piece.title}</div>
                   {piece.subtitle && <div className="entry-sub">{piece.subtitle}</div>}
                 </Link>
