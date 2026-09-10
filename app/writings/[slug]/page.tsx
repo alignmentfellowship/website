@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { Prose } from 'quire'
 import { notFound } from 'next/navigation'
 import { writings } from '#site/content'
 import { NAME } from '@/lib/fellowship'
@@ -68,7 +69,19 @@ export default async function Piece({ params }: { params: Promise<{ slug: string
           </figure>
         )}
 
-        <div className="prose" dangerouslySetInnerHTML={{ __html: w.content }} />
+        {/*
+          Rendered by quire, the renderer shared with the other sites, so a fix to
+          footnotes or link handling lands everywhere rather than here alone.
+        
+          No classNames are passed on purpose: this site styles prose with a `.prose`
+          CSS block that targets elements, and quire emits those elements — the styling
+          written for velite's HTML applies unchanged.
+        */}
+        <div className="prose">
+          <Prose resolveUrl={(src) => src.replace('../images/', '/images/')}>
+            {w.plain}
+          </Prose>
+        </div>
 
         {w.syndicated.length > 0 && (
           <p className="meta" style={{ marginTop: '4rem' }}>
