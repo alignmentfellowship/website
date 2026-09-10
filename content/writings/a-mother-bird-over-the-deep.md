@@ -16,7 +16,7 @@ hero:
     spread across the surface
   width: 1536
   height: 1024
-digest: sha256:d9fe9c02a2d92659cfb9293a4a04aa94778929ad8cb4beabcdccf524f1745e0c
+digest: sha256:4335bd9c1bc3c7279986c521897e14bb452dd364085f32dd158982a5a29cbdff
 ---
 
 ## I. An unassigned pronoun is not an empty slot
@@ -151,14 +151,15 @@ anything. It ratifies the arrangement it appears to soften. The norm stays male,
 becomes the exception to it, and the exception gets seated in the person who is sent rather than
 the person who sends.
 
-That is the case at its strongest, and it rests on one word.
+That is the case at its strongest. And I wrote down, in the same breath, the word it hangs
+on — *two* — which is the trouble with stating an objection well. An argument that names its
+own load-bearing condition has told you exactly where to push.
 
 ## VI. There is no masculine default left
 
-The refusal was conditioned, and the condition was **two masculine persons.**
-
-This publication doesn't have two. The Father isn't *He* here. The Father is **They** — settled
-first, on its own grounds, in an essay with no interest whatsoever in the Spirit's pronoun.
+So the arithmetic half goes quickly, and it should. This publication doesn't have two masculine
+persons. The Father isn't *He* here. The Father is **They** — settled first, on its own grounds,
+in an essay with no interest whatsoever in the Spirit's pronoun.
 
 Johnson's trap needs a masculine default for the feminine to be an exception to. Take the
 default away and there's nothing left for the trap to close on. **They**, **He**, **She**: three
@@ -166,9 +167,9 @@ persons, three distinct pronoun sets, and not one of them the norm the other two
 The feminine stops being the odd seat at a masculine table, because there's no masculine table.
 It's one of three, and each of the three is strange in its own direction.
 
-That answers half of the refusal. The other half is still standing: even with the arithmetic
-fixed, *she* still lands on the person of the three with the least agency — the one who
-proceeds, who is sent, who is given. She is the sent one; that part is simply true. But look at
+That is the easy half, and it was never the part worth the essay. The other half is still
+standing: even with the arithmetic fixed, *she* still lands on the person of the three with the
+least agency — the one who proceeds, who is sent, who is given. She is the sent one; that part is simply true. But look at
 what has to be assumed to make it an objection. It takes *sent* for the low seat and *sending*
 for the high one, and ranks the three by how much each initiates — which is the scale this
 publication has been refusing from the start. [*The Novelist

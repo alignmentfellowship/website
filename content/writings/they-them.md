@@ -14,7 +14,7 @@ hero:
     arm outstretched, with a broad white brushstroke struck across the eyes
   width: 1484
   height: 1060
-digest: sha256:f5d75ca31a20dc595fe5eca29de9921fc28806df11c801758686db90d6d6b387
+digest: sha256:6492f04372acb8a74dfaccd672ed7546186152d9844baa24171b6b8c917eeee4
 ---
 
 ## I. The Picture No One Chose
@@ -339,10 +339,20 @@ the feminine in the one person of the three with the least agency — the one wh
 sent, who is given. That isn't a rescue. It's the old arrangement handing out a consolation
 prize. Elizabeth Johnson saw the trap and stepped around it: rather than gendering one person
 female, she brought Sophia — Wisdom, grammatically feminine — to bear on all three, Father, Son
-and Spirit alike.[^26] It is the objection I have since had to answer at length in
-[*A Mother Bird Over the Deep*](https://elmuffin.substack.com/p/a-mother-bird-over-the-deep).
-The point of *Ruach* isn't that we've found the girl. The point is that the
-masculine was built. That's enough to carry, and it carries more honestly alone.
+and Spirit alike.[^26]
+
+Every clause of that holds, and the whole of it rests on one word. *Two.* Two masculine persons,
+and a feminine third that can only arrive as the exception to them. The trap needs a masculine
+default for the feminine to depart from; take the default away and there's nothing left for it to
+close on. That default is what the rest of this essay dismantles, and once it's gone the
+arithmetic is different. I follow that out where it belongs, in [*A Mother Bird Over the
+Deep*](https://elmuffin.substack.com/p/a-mother-bird-over-the-deep): the Spirit's pronoun in this
+publication is *She* — not a promotion, not a rescue, just the last door standing open after the
+others shut.
+
+So the refusal holds exactly as long as its condition does. What *Ruach* settles here isn't that
+we've found the girl. It's that the masculine was built — which is the fact that turns every
+pronoun after it into a decision instead of an inheritance.
 
 ---
 
@@ -390,14 +400,14 @@ image."[^27] *Us. Our.* Read it as a plural of majesty if you like, or as God in
 grant the cautious reading in full; the *form* is still plural, in the mouth of God, in the first
 chapter, before there's a single reader to offend. And the likeness that comes out the far side of
 that sentence is, we've already seen, itself two: male and female. A plural form, speaking of
-itself in the plural, and making an image that isn't one thing either.
+Themself in the plural, and making an image that isn't one thing either.
 
 Now set that beside a fact about English so ordinary you've used it three times today without
-noticing. When you don't know, or don't want to fix, the sex of a single person — *someone left
+noticing. When you don't know, or don't want to fix, the gender of a single person — *someone left
 their umbrella; ask whoever is at the door what they want* — you reach without a thought for
 *they.* A word plural in form, taking singular agreement, doing the work of a singular you cannot
-or will not pin to a sex. English, entirely on its own, built a pronoun that's plural in form and
-singular in reference. *Elohim* is plural in form and singular in reference. Two languages, three
+or will not pin to a gender. English, entirely on its own, built a pronoun that's plural in form
+and singular in reference. *Elohim* is plural in form and singular in reference. Two languages, three
 thousand years apart, reached the same solution to the same problem. The pronoun the tradition has
 needed all along is one the language already made.
 
@@ -406,15 +416,15 @@ last decade — it's been in continuous English use since the fourteenth century
 It's in Shakespeare. It's in Austen.[^28] Whatever singular *they* is, it isn't new.
 
 God is not male. They never were. They are the One Xenophanes' oxen could not draw, the no-form
-seen at Horeb, the verb that refused to harden into a noun, the source that called itself *us*
-before it had made anything at all. They are what Hagar saw and named. They are the One the
+seen at Horeb, the verb that refused to harden into a noun, the source that called Themself *us*
+before They had made anything at all. They are what Hagar saw and named. They are the One the
 dark bride wanted. They are the One whose Spirit brooded over the water like a mother bird. And
 when we say *They,* we aren't swelling God into a committee — we're refusing to shrink Them
 into a face.
 
 Watch what that one pronoun keeps that its rivals let fall. *She* would only trade one portrait
 for another, a fresh picture hung in the empty frame, answering the question by choosing a
-different sex — which is answering it wrong. *They* refuses the question. It carries multiplicity
+different gender — which is answering it wrong. *They* refuses the question. It carries multiplicity
 without ever resolving it into a single likeness. It is, if you want it in a line, the second
 commandment rendered as a pronoun. And it holds on to what this argument can't afford to lose: it
 keeps Cone, because They are not a bland everyone but also and especially the disregarded; and it
@@ -476,8 +486,8 @@ I'm not asking you to worship a new thing. There's no new God at the end of this
 portrait to hang where the old one hung. The argument was only ever the one thing: the picture was
 never the thing. *He* was never neutral, the pale face was never innocent, and the two great
 divisions we're still bleeding over — who counts as a man's equal, who counts as fully a person —
-ran downstream of a portrait that got hung at the top of everything and then, over centuries, sank
-out of sight enough to pass for the truth.
+ran downstream of a face somebody painted on a ceiling at the top of everything and then, over
+centuries, sank out of sight enough to pass for the truth.
 
 So the practical part is small, and hard the way small true things tend to be. Change the words.
 In the prayer, the reading, the hymn, the blessing over the table, let the pronoun be *They* — not
