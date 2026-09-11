@@ -17,8 +17,16 @@ type Group = { title: string; entries: Entry[] }
 
 export const revalidate = 60
 
-export default async function Writings() {
+export default async function Writings({
+  searchParams,
+}: {
+  searchParams: Promise<{ tag?: string | string[] }>
+}) {
   const writings = await listWritings()
+  // Read on the server so a shared ?tag= link -- and every old /writings/tags/<tag> address,
+  // which redirects here -- is filtered in the HTML itself, not after script runs.
+  const { tag } = await searchParams
+  const initialTag = typeof tag === 'string' ? tag : null
   const have = new Map(writings.map((w) => [w.slug, w]))
 
   return (
@@ -34,46 +42,46 @@ export default async function Writings() {
       </header>
 
       <div className="wide" style={{ marginTop: '2rem' }}>
-        {(library as Group[]).map((group) => (
-          <section className="group" key={group.title}>
-            <span className="label">{group.title}</span>
-            {group.entries.map((e) => {
-              const piece = have.get(e.slug)
-              // The house rule from writings.md: live pieces link to their page;
-              // unpublished ones are named without a link and get one when they go live.
-              if (!piece) {
-                return (
-                  <div className="entry" key={e.slug}>
-                    <div className="entry-title" style={{ color: 'var(--ink-faint)' }}>
-                      {e.title}
-                      <span className="meta" style={{ marginLeft: '0.6rem' }}>not yet</span>
+        {/* The tag filter heads the page (quire/list): with no tag chosen it shows the reading
+            order below; a tag replaces the reading order with just the writings that carry it.
+            Tags cut across the groups -- the groups are a reading order, a tag is what a piece
+            is about -- so one page with a filter, not a page per tag (Eric, 2026-09-11). */}
+        <WritingsIndex
+          initialTag={initialTag}
+          items={writings.map((w) => ({
+            slug: w.slug,
+            title: w.title,
+            subtitle: w.subtitle ?? null,
+            tags: w.tags ?? [],
+          }))}
+        >
+          {(library as Group[]).map((group) => (
+            <section className="group" key={group.title}>
+              <span className="label">{group.title}</span>
+              {group.entries.map((e) => {
+                const piece = have.get(e.slug)
+                // The house rule from writings.md: live pieces link to their page;
+                // unpublished ones are named without a link and get one when they go live.
+                if (!piece) {
+                  return (
+                    <div className="entry" key={e.slug}>
+                      <div className="entry-title" style={{ color: 'var(--ink-faint)' }}>
+                        {e.title}
+                        <span className="meta" style={{ marginLeft: '0.6rem' }}>not yet</span>
+                      </div>
                     </div>
-                  </div>
+                  )
+                }
+                return (
+                  <Link className="entry" href={`/writings/${piece.slug}`} key={e.slug}>
+                    <div className="entry-title">{piece.title}</div>
+                    {piece.subtitle && <div className="entry-sub">{piece.subtitle}</div>}
+                  </Link>
                 )
-              }
-              return (
-                <Link className="entry" href={`/writings/${piece.slug}`} key={e.slug}>
-                  <div className="entry-title">{piece.title}</div>
-                  {piece.subtitle && <div className="entry-sub">{piece.subtitle}</div>}
-                </Link>
-              )
-            })}
-          </section>
-        ))}
-
-        {/* Every writing, narrowable by tag in place. Tags cut across the groups above: the
-            groups are a reading order, a tag is what a piece is about. One page with a filter,
-            not a page per tag (Eric, 2026-09-11). */}
-        <section className="group">
-          <WritingsIndex
-            items={writings.map((w) => ({
-              slug: w.slug,
-              title: w.title,
-              subtitle: w.subtitle ?? null,
-              tags: w.tags ?? [],
-            }))}
-          />
-        </section>
+              })}
+            </section>
+          ))}
+        </WritingsIndex>
       </div>
     </main>
   )
