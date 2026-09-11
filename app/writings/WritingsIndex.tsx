@@ -35,7 +35,8 @@ export default function WritingsIndex({
       allLabel="All"
       describe={(n, tag) =>
         tag ? `${n} ${n === 1 ? 'writing' : 'writings'} tagged ${tag.label}` : `All ${n} writings`}
-      classNames={{ root: 'tag-filter', filters: 'tag-list', filter: 'tag', status: 'label', item: 'entry' }}
+      filterLabel="Filter by tag"
+      classNames={{ root: 'tag-filter', filters: 'tag-filter-bar', filterLabel: 'label', filter: 'tag-select', status: 'label', item: 'entry' }}
       renderItem={(w) => (
         <>
           <div className="entry-title">{w.title}</div>
