@@ -72,7 +72,7 @@ export const REFUSALS: { name: string; body: string; sources: Source[] }[] = [
   },
   {
     name: 'No selling.',
-    body: 'Nothing here is for sale and nothing here is a funnel. The Fellowship gives away the one thing that was never for sale.',
+    body: 'The practice is never for sale: gatherings and resources for learning are always free, and nothing here is a funnel. The Fellowship gives away the one thing that was never for sale.',
     sources: [{ title: 'Nothing to Get', slug: 'nothing-to-get' }],
   },
 ]
