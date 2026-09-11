@@ -31,3 +31,11 @@ export const store = createStore({
  * and a talk has no page under /writings.
  */
 export const listWritings = () => store.listFor(OUTLET, { kind: 'piece' })
+
+/**
+ * The scratch piece (quire 0.16): the one record a test may overwrite, shown at /scratch/ and in
+ * no list or sitemap. Read uncached so a test sees its upload at once; store_publish invalidates
+ * the CDN copy of whatever it uploads.
+ */
+const scratchStore = createStore({ base: STORE_URL, requestInit: { cache: 'no-store' } })
+export const getScratch = () => scratchStore.getScratch(OUTLET)

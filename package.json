@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "next": "^16.3.4",
-    "quire": "github:ericgarcia/quire#v0.15.0",
+    "quire": "github:ericgarcia/quire#v0.16.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
