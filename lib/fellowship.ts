@@ -42,7 +42,7 @@ export const REFUSALS: { name: string; body: string; sources: Source[] }[] = [
   },
   {
     name: 'No rolls.',
-    body: 'Nobody is counted, and nobody can be counted, because the criterion reads a state and not a standing.',
+    body: 'Nobody is counted as in or out: the criterion reads a state and not a standing. The one list kept is the list of who votes, which the law requires and which says nothing about anybody\'s standing.',
     sources: [{ title: 'The Sheep in the Basement', slug: 'the-sheep-in-the-basement' }],
   },
   {
@@ -72,7 +72,7 @@ export const REFUSALS: { name: string; body: string; sources: Source[] }[] = [
   },
   {
     name: 'No selling.',
-    body: 'The practice is never for sale: gatherings and resources for learning are always free, and nothing here is a funnel. The name, the mark and the domains, which the trust holds, are never sold, and no money or money\'s worth is taken for them in any form: they are licensed only to the Fellowship\'s own bodies, and never for a fee. Stories about the Fellowship may portray them, and an agreement that only keeps others out of the Fellowship\'s field, for no money, sells nothing. The name may be dropped, and the mark with it, to no one and for nothing; the domains stay with the writings, pointing wherever they are free. If the trust ends, the domains are given, with the writings, to a successor that keeps them free. The Fellowship gives away the one thing that was never for sale.',
+    body: 'The practice is never for sale: gatherings and resources for learning are always free, and nothing here is a funnel. The name, the mark and the domains, which the trust holds, are never sold, and no money or money\'s worth is taken for them in any form: they are licensed only to the Fellowship\'s own bodies, and never for a fee. Stories about the Fellowship may portray them. The Fellowship may agree, for no money, not to object to another\'s use of the name outside its field; a promise received in such an agreement is not money\'s worth. The name may be dropped, and the mark with it, to no one and for nothing; the domains stay with the writings, pointing wherever they are free. If the trust ends, the domains are given, with the writings, to a successor that keeps them free. The Fellowship gives away the one thing that was never for sale.',
     sources: [{ title: 'Nothing to Get', slug: 'nothing-to-get' }],
   },
 ]
