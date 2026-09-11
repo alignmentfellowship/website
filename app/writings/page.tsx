@@ -26,7 +26,7 @@ export default async function Writings({
   // Read on the server so a shared ?tag= link -- and every old /writings/tags/<tag> address,
   // which redirects here -- is filtered in the HTML itself, not after script runs.
   const { tag } = await searchParams
-  const initialTag = typeof tag === 'string' ? tag : null
+  const initialTags = typeof tag === 'string' ? [tag] : Array.isArray(tag) ? tag : []
   const have = new Map(writings.map((w) => [w.slug, w]))
 
   return (
@@ -47,7 +47,7 @@ export default async function Writings({
             Tags cut across the groups -- the groups are a reading order, a tag is what a piece
             is about -- so one page with a filter, not a page per tag (Eric, 2026-09-11). */}
         <WritingsIndex
-          initialTag={initialTag}
+          initialTags={initialTags}
           items={writings.map((w) => ({
             slug: w.slug,
             title: w.title,

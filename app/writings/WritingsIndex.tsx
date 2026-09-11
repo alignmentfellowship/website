@@ -17,26 +17,33 @@ export type WritingRow = { slug: string; title: string; subtitle: string | null;
  */
 export default function WritingsIndex({
   items,
-  initialTag,
+  initialTags,
   children,
 }: {
   items: WritingRow[]
-  /** ?tag= as the server read it, so a shared tag link is filtered before script runs. */
-  initialTag: string | null
+  /** Every ?tag= as the server read it, so a shared link is filtered before script runs. */
+  initialTags: string[]
   /** The reading order, shown under the filter until a tag is chosen. */
   children: ReactNode
 }) {
   return (
     <TagFilteredList
       items={items}
-      initialTag={initialTag}
+      initialTags={initialTags}
       href={(w) => `/writings/${w.slug}/`}
       Link={Link}
-      allLabel="All"
-      describe={(n, tag) =>
-        tag ? `${n} ${n === 1 ? 'writing' : 'writings'} tagged ${tag.label}` : `All ${n} writings`}
+      describe={(n, chosen) =>
+        chosen.length
+          ? `${n} ${n === 1 ? 'writing' : 'writings'} tagged ${chosen.map((t) => t.label).join(' and ')}`
+          : `All ${n} writings`}
       filterLabel="Filter by tag"
-      classNames={{ root: 'tag-filter', filters: 'tag-filter-bar', filterLabel: 'label', filter: 'tag-select', status: 'label', item: 'entry' }}
+      placeholder="Type a tag"
+      placeholderMore="Add another tag"
+      classNames={{
+        root: 'tag-filter', control: 'tag-control', filterLabel: 'label', chips: 'tag-chips',
+        chip: 'tag-chip', input: 'tag-input', listbox: 'tag-options', option: 'tag-option',
+        activeOption: 'tag-option is-active', status: 'label', item: 'entry',
+      }}
       renderItem={(w) => (
         <>
           <div className="entry-title">{w.title}</div>
