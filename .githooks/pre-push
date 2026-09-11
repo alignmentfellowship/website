@@ -1,0 +1,4 @@
+#!/bin/sh
+# The lockfile must resolve what package.json names -- Vercel installs from the lockfile.
+# Once per clone: git config core.hooksPath .githooks
+exec node scripts/check-lock.mjs

@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "og": "python3 scripts/make-og.py"
+    "og": "python3 scripts/make-og.py",
+    "check:lock": "node scripts/check-lock.mjs"
   },
   "dependencies": {
     "next": "^16.3.4",
