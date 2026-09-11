@@ -21,9 +21,15 @@ export const OUTLET = 'alignmentfellowship'
 /** Matches the Cache-Control the exporter puts on content JSON. */
 export const REVALIDATE = 60
 
+/**
+ * `cacheTags` (quire 0.17) tags each fetch — `quire:index`, `quire:piece:<slug>` — so the desk's
+ * publish can expire exactly what it uploaded through app/api/revalidate. REVALIDATE stays as the
+ * floor: a publish that never pings still reaches readers within it.
+ */
 export const store = createStore({
   base: STORE_URL,
   requestInit: { next: { revalidate: REVALIDATE } },
+  cacheTags: true,
 })
 
 /**
