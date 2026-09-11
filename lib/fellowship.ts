@@ -72,7 +72,7 @@ export const REFUSALS: { name: string; body: string; sources: Source[] }[] = [
   },
   {
     name: 'No selling.',
-    body: 'The practice is never for sale: gatherings and resources for learning are always free, and nothing here is a funnel. The name, the mark and the domains, which the trust holds, are never sold; the name may be dropped. The Fellowship gives away the one thing that was never for sale.',
+    body: 'The practice is never for sale: gatherings and resources for learning are always free, and nothing here is a funnel. The name, the mark and the domains, which the trust holds, are never sold. The name may be dropped, and the mark with it; the domains stay with the writings, pointing wherever they are free. If the trust ends, the domains are given, with the license to the writings, to a successor that keeps them free. The Fellowship gives away the one thing that was never for sale.',
     sources: [{ title: 'Nothing to Get', slug: 'nothing-to-get' }],
   },
 ]
