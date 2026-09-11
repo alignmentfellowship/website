@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next'
 
-import { listWritings } from '@/lib/store'
+import { listWritings, listTags } from '@/lib/store'
 
 // The site renders per request now, so the sitemap follows the store on the same
 // window as the pages: a piece published today appears without a deploy.
@@ -20,6 +20,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${BASE}/writings/${w.slug}/`,
       lastModified: new Date(w.published_at),
       priority: 0.6,
+    })),
+    ...(await listTags()).map((t) => ({
+      url: `${BASE}/writings/tags/${t.tag}/`,
+      priority: 0.4,
     })),
   ]
 }

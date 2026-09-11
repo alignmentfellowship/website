@@ -86,6 +86,21 @@ export default async function Piece({ params }: { params: Promise<{ slug: string
           </Prose>
         </div>
 
+        {/* At the end rather than under the title: a reader who has finished a piece is
+            the one asking for more like it. */}
+        {(w.tags?.length ?? 0) > 0 && (
+          <p className="meta" style={{ marginTop: '4rem' }}>
+            Tagged{' '}
+            {w.tags!.map((t, i) => (
+              <span key={t.tag}>
+                {i > 0 && ', '}
+                <Link href={`/writings/tags/${t.tag}`}>{t.label}</Link>
+              </span>
+            ))}
+            .
+          </p>
+        )}
+
         {(w.syndicated?.length ?? 0) > 0 && (
           <p className="meta" style={{ marginTop: '4rem' }}>
             Also published at{' '}

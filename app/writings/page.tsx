@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { listWritings } from '@/lib/store'
+import { listWritings, listTags } from '@/lib/store'
 import library from '@/content/library.json'
 import { NAME } from '@/lib/fellowship'
 
@@ -18,6 +18,7 @@ export const revalidate = 60
 
 export default async function Writings() {
   const have = new Map((await listWritings()).map((w) => [w.slug, w]))
+  const tags = await listTags()
 
   return (
     <main>
@@ -58,6 +59,21 @@ export default async function Writings() {
             })}
           </section>
         ))}
+
+        {/* Tags cut across the groups above: the groups are a reading order, a tag is
+            what a piece is about. Only tags a published piece carries are listed. */}
+        {tags.length > 0 && (
+          <section className="group">
+            <span className="label">By tag</span>
+            <p className="tag-list">
+              {tags.map((t) => (
+                <Link href={`/writings/tags/${t.tag}`} key={t.tag}>
+                  {t.label} <span className="meta">{t.count}</span>
+                </Link>
+              ))}
+            </p>
+          </section>
+        )}
       </div>
     </main>
   )

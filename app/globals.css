@@ -171,6 +171,9 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 400; letter-spacing: -0.015
 .entry:hover .entry-title { color: var(--amber); }
 .entry-title { font-size: 1.125rem; line-height: 1.35; transition: color 120ms ease; }
 .entry-sub { color: var(--ink-faint); font-size: 0.9375rem; margin-top: 0.2rem; line-height: 1.5; }
+.tag-list { display: flex; flex-wrap: wrap; gap: 0.6rem 1.5rem; margin: 0; padding-top: 1rem; border-top: 1px solid var(--hair); }
+.tag-list a { text-decoration: none; }
+.tag-list a:hover { color: var(--amber); }
 
 /* ---- prose -------------------------------------------------------------- */
 
