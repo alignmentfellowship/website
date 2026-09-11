@@ -1,6 +1,6 @@
-// The Fellowship's own words. Transcribed verbatim from the desk documents —
-// books/alignment-fellowship/{the-vow.md,README.md} — which remain the source of
-// record. Nothing here is rephrased: the register is the point, and this file is a
+// The Fellowship's own words. Transcribed verbatim from the constitution —
+// github.com/alignmentfellowship/constitution, {vow.md,charter.md} — which is the
+// source of record. Nothing here is rephrased: the register is the point, and this file is a
 // copy, not an edit.
 
 export const TAGLINE = 'In tune.'
@@ -72,7 +72,7 @@ export const REFUSALS: { name: string; body: string; sources: Source[] }[] = [
   },
   {
     name: 'No selling.',
-    body: 'The practice is never for sale: gatherings and resources for learning are always free, and nothing here is a funnel. The Fellowship gives away the one thing that was never for sale.',
+    body: 'The practice is never for sale: gatherings and resources for learning are always free, and nothing here is a funnel. The name, the mark and the domains, which the trust holds, are never sold; the name may be dropped. The Fellowship gives away the one thing that was never for sale.',
     sources: [{ title: 'Nothing to Get', slug: 'nothing-to-get' }],
   },
 ]
