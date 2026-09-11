@@ -19,7 +19,25 @@ const notice = (
 )
 
 export default async function Scratch() {
-  const w = await getScratch()
+  // A scratch that does not validate is exactly what a test needs to see, so it is shown, not
+  // turned into a 500 (the first fixture's digest was not hex, 2026-09-11).
+  let w: Awaited<ReturnType<typeof getScratch>> = null
+  let problem: string | null = null
+  try {
+    w = await getScratch()
+  } catch (e) {
+    problem = (e as Error).message
+  }
+  if (problem) {
+    return (
+      <main>
+        {notice}
+        <p className="shell" style={{ marginTop: '4rem' }}>
+          The scratch piece is in the store but does not render: <code>{problem}</code>
+        </p>
+      </main>
+    )
+  }
   if (!w) {
     return (
       <main>
