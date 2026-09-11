@@ -37,6 +37,9 @@ export function PieceArticle({ w, notice }: { w: Piece; notice?: ReactNode }) {
           <figure className="hero">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src={store.resolveUrl(w.hero.src)} alt={w.hero.alt} width={w.hero.width} height={w.hero.height} />
+            {/* What the picture means here (publish.yaml cover_caption). Missing until the scratch
+                page showed it, 2026-09-11: muffinlabs rendered it, this site dropped it. */}
+            {w.hero.caption && <figcaption>{w.hero.caption}</figcaption>}
           </figure>
         )}
 

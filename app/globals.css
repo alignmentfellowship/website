@@ -240,6 +240,9 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 400; letter-spacing: -0.015
 
 .hero { margin: 2.5rem 0 0; }
 .hero img { border-radius: 2px; }
+/* A figure's caption, under the hero and under a figure in the body (quire's figcaption). */
+.hero figcaption, .prose figcaption { color: var(--ink-soft); font-size: 0.9375rem; line-height: 1.45;
+  text-align: center; margin-top: 0.7rem; }
 
 /* ---- footer ------------------------------------------------------------- */
 
