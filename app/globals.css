@@ -174,6 +174,12 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 400; letter-spacing: -0.015
 .tag-list { display: flex; flex-wrap: wrap; gap: 0.6rem 1.5rem; margin: 0; padding-top: 1rem; border-top: 1px solid var(--hair); }
 .tag-list a { text-decoration: none; }
 .tag-list a:hover { color: var(--amber); }
+/* The tag filter on /writings (quire/list): buttons that read like the links they replaced. */
+.tag-list .tag { background: none; border: 0; padding: 0; font: inherit; color: inherit; cursor: pointer; }
+.tag-list .tag:hover, .tag-list .tag[aria-pressed="true"] { color: var(--amber); }
+.tag-list .tag[aria-pressed="true"] { text-decoration: underline; text-underline-offset: 0.2em; }
+.tag-list .tag:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+.tag-list .tag span { color: var(--ink-faint); }
 
 /* ---- prose -------------------------------------------------------------- */
 

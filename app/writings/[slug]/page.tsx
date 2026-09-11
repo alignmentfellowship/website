@@ -94,7 +94,7 @@ export default async function Piece({ params }: { params: Promise<{ slug: string
             {w.tags!.map((t, i) => (
               <span key={t.tag}>
                 {i > 0 && ', '}
-                <Link href={`/writings/tags/${t.tag}`}>{t.label}</Link>
+                <Link href={`/writings/?tag=${t.tag}`}>{t.label}</Link>
               </span>
             ))}
             .

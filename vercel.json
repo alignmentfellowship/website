@@ -199,6 +199,16 @@
       "source": "/writings/what-you-notice/",
       "destination": "/writings/what-was-already-there/",
       "permanent": true
+    },
+    {
+      "source": "/writings/tags/:tag",
+      "destination": "/writings/?tag=:tag",
+      "permanent": true
+    },
+    {
+      "source": "/writings/tags/:tag/",
+      "destination": "/writings/?tag=:tag",
+      "permanent": true
     }
   ]
 }

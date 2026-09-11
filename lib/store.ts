@@ -31,25 +31,3 @@ export const store = createStore({
  * and a talk has no page under /writings.
  */
 export const listWritings = () => store.listFor(OUTLET, { kind: 'piece' })
-
-/** Every writing carrying one tag, newest first. */
-export const listTagged = (tag: string) => store.listFor(OUTLET, { kind: 'piece', tag })
-
-export type TagCount = { tag: string; label: string; count: number }
-
-/**
- * The tags in use here, most-carried first. Built from the index, not from a list of its
- * own: the desk's vocabulary is the source of record, and a tag no published piece carries
- * has no page to link to.
- */
-export async function listTags(): Promise<TagCount[]> {
-  const seen = new Map<string, TagCount>()
-  for (const w of await listWritings()) {
-    for (const t of w.tags ?? []) {
-      const c = seen.get(t.tag) ?? { tag: t.tag, label: t.label, count: 0 }
-      c.count += 1
-      seen.set(t.tag, c)
-    }
-  }
-  return [...seen.values()].sort((a, b) => b.count - a.count || a.label.localeCompare(b.label))
-}

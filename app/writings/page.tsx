@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { listWritings, listTags } from '@/lib/store'
+import { listWritings } from '@/lib/store'
+import WritingsIndex from './WritingsIndex'
 import library from '@/content/library.json'
 import { NAME } from '@/lib/fellowship'
 
@@ -17,8 +18,8 @@ type Group = { title: string; entries: Entry[] }
 export const revalidate = 60
 
 export default async function Writings() {
-  const have = new Map((await listWritings()).map((w) => [w.slug, w]))
-  const tags = await listTags()
+  const writings = await listWritings()
+  const have = new Map(writings.map((w) => [w.slug, w]))
 
   return (
     <main>
@@ -60,20 +61,19 @@ export default async function Writings() {
           </section>
         ))}
 
-        {/* Tags cut across the groups above: the groups are a reading order, a tag is
-            what a piece is about. Only tags a published piece carries are listed. */}
-        {tags.length > 0 && (
-          <section className="group">
-            <span className="label">By tag</span>
-            <p className="tag-list">
-              {tags.map((t) => (
-                <Link href={`/writings/tags/${t.tag}`} key={t.tag}>
-                  {t.label} <span className="meta">{t.count}</span>
-                </Link>
-              ))}
-            </p>
-          </section>
-        )}
+        {/* Every writing, narrowable by tag in place. Tags cut across the groups above: the
+            groups are a reading order, a tag is what a piece is about. One page with a filter,
+            not a page per tag (Eric, 2026-09-11). */}
+        <section className="group">
+          <WritingsIndex
+            items={writings.map((w) => ({
+              slug: w.slug,
+              title: w.title,
+              subtitle: w.subtitle ?? null,
+              tags: w.tags ?? [],
+            }))}
+          />
+        </section>
       </div>
     </main>
   )
