@@ -26,5 +26,8 @@ export const store = createStore({
   requestInit: { next: { revalidate: REVALIDATE } },
 })
 
-/** Every writing published here, newest first. */
-export const listWritings = () => store.listFor(OUTLET)
+/**
+ * Every writing published here, newest first. Pieces only: the index carries talks too,
+ * and a talk has no page under /writings.
+ */
+export const listWritings = () => store.listFor(OUTLET, { kind: 'piece' })
