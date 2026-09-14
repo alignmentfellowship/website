@@ -41,6 +41,13 @@
         "title": "In Vain",
         "subtitle": "Vain means empty. So is the self you did it for.",
         "published": true
+      },
+      {
+        "slug": "something-in-it-for-me",
+        "source_slug": "something-in-it-for-me",
+        "title": "Something In It for Me",
+        "subtitle": "Self-interest doesn't make an act wrong. It makes you unable to tell.",
+        "published": true
       }
     ]
   },
@@ -201,6 +208,20 @@
         "title": "The Distance That Love Needs",
         "subtitle": "Why we are separate enough to love God.",
         "published": true
+      },
+      {
+        "slug": "false-light",
+        "source_slug": "false-light",
+        "title": "False Light",
+        "subtitle": "A counterfeit isn't made of lies. It's made of true sentences, addressed to the wrong one.",
+        "published": true
+      },
+      {
+        "slug": "not-a-bodhisattva",
+        "source_slug": "not-a-bodhisattva",
+        "title": "Not a Bodhisattva",
+        "subtitle": "The Buddha asked how suffering ends. Jesus asked something else.",
+        "published": true
       }
     ]
   },
@@ -285,6 +306,13 @@
         "source_slug": "rising-after-falls",
         "title": "Rising After Falls",
         "subtitle": "The practice is not staying. The practice is the return.",
+        "published": true
+      },
+      {
+        "slug": "the-towel",
+        "source_slug": "the-towel",
+        "title": "The Towel",
+        "subtitle": "Every rule in the book is addressed to whoever held the power, on behalf of whoever didn't.",
         "published": true
       }
     ]
