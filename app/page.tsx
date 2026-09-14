@@ -54,7 +54,9 @@ export default function Home() {
               color: 'var(--ink-soft)',
             }}
           >
-            Each refusal has a live essay behind it, so it is argued, not asserted.
+            Each refusal has a live essay behind it, so it is argued, not asserted. Every one of
+            them may be amended by the members on the ninety-day track; only one rule in the
+            foundation cannot be amended, and it is not a refusal: the dialogue is the vote.
           </p>
           <ul className="refusals">
             {REFUSALS.map((r) => (
