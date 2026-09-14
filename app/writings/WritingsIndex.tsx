@@ -2,8 +2,8 @@
 
 import Link from 'next/link'
 import type { ReactNode } from 'react'
-import { TagFilteredList } from 'quire/list'
-import type { Tag } from 'quire'
+import { TagFilteredList } from 'scriptorium-quire/list'
+import type { Tag } from 'scriptorium-quire'
 
 export type WritingRow = { slug: string; title: string; subtitle: string | null; tags: Tag[] }
 

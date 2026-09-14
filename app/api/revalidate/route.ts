@@ -1,5 +1,5 @@
 import { revalidateTag } from 'next/cache'
-import { createRevalidateHandler } from 'quire/next'
+import { createRevalidateHandler } from 'scriptorium-quire/next'
 
 /**
  * The desk tells the site what it just published, and the next reader gets the new text at

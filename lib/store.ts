@@ -1,4 +1,4 @@
-import { createStore } from 'quire/store'
+import { createStore } from 'scriptorium-quire/store'
 
 /**
  * Where this site reads its writings from.

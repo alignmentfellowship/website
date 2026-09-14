@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react'
 import Link from 'next/link'
-import { Prose } from 'quire'
+import { Prose } from 'scriptorium-quire'
 import { store } from '@/lib/store'
 import { NAME } from '@/lib/fellowship'
 

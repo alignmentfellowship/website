@@ -32,7 +32,7 @@ refusals in the Fellowship's own brand document, not omissions.
 
 Content is not authored here. It is exported from a private writing desk as a
 **scriptorium content bundle** (`framework/docs/BUNDLE.md` in
-[scriptorium](https://github.com/ericgarcia/scriptorium)) and vendored in:
+[scriptorium](https://github.com/muffin-labs/scriptorium)) and vendored in:
 
 ```bash
 ./scripts/import-bundle.sh /path/to/bundle
