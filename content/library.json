@@ -98,7 +98,7 @@
         "slug": "nobody-crosses-on-evidence",
         "source_slug": "two-wills",
         "title": "Nobody Crosses on Evidence",
-        "subtitle": "Not because the evidence is weak. Because the crossing is a change in who is arguing. What opened at the cross was a way, not a place \u2014 and the fight you have never backed down from may already be over.",
+        "subtitle": "Not because the evidence is weak. Because the crossing is a change in who is arguing. What opened at the cross was a way, not a place — and the fight you have never backed down from may already be over.",
         "published": true
       },
       {
@@ -279,7 +279,7 @@
         "slug": "where-the-timelines-agree",
         "source_slug": "forking-paths",
         "title": "Where the Timelines Agree",
-        "subtitle": "You cannot feel the fork and you cannot steer between histories. What survives is not the route that scores highest \u2014 it is the one its neighbors agree with, and someone has already walked it.",
+        "subtitle": "You cannot feel the fork and you cannot steer between histories. What survives is not the route that scores highest — it is the one its neighbors agree with, and someone has already walked it.",
         "published": true
       },
       {
@@ -293,7 +293,7 @@
         "slug": "what-holds-you-here",
         "source_slug": "unknowing",
         "title": "What Holds You Here",
-        "subtitle": "Nothing out there is holding you where you are. What is, you are holding \u2014 and the tradition has a name for setting it down.",
+        "subtitle": "Nothing out there is holding you where you are. What is, you are holding — and the tradition has a name for setting it down.",
         "published": false
       }
     ]
@@ -313,6 +313,13 @@
         "source_slug": "the-towel",
         "title": "The Towel",
         "subtitle": "Every rule in the book is addressed to whoever held the power, on behalf of whoever didn't.",
+        "published": true
+      },
+      {
+        "slug": "what-your-hands-have-earned",
+        "source_slug": "what-your-hands-have-earned",
+        "title": "What Your Hands Have Earned",
+        "subtitle": "One account per soul, male or female — and every rule the book gives about women is spoken to a man.",
         "published": true
       }
     ]
