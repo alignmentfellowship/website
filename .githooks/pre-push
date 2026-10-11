@@ -1,4 +1,17 @@
 #!/bin/sh
-# The lockfile must resolve what package.json names -- Vercel installs from the lockfile.
+# Two gates run on every push, in order.
 # Once per clone: git config core.hooksPath .githooks
-exec node scripts/check-lock.mjs
+set -e
+
+# The lockfile must resolve what package.json names -- Vercel installs from the lockfile.
+# It reads no refs, and /dev/null keeps git's ref stream intact for the gate below.
+node scripts/check-lock.mjs </dev/null
+
+# The trellis push gate reads the refs git writes on stdin and scans the commits the push
+# carries, so it runs last and with that stream untouched. It is installed per machine and
+# is not part of this repo; a clone without it pushes on the lockfile check alone.
+if command -v trellis >/dev/null 2>&1; then
+  exec trellis push-gate "$@"
+elif [ -x "$HOME/.trellis/bin/trellis" ]; then
+  exec "$HOME/.trellis/bin/trellis" push-gate "$@"
+fi
