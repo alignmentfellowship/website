@@ -39,6 +39,19 @@ export const store = createStore({
 export const listWritings = () => store.listFor(OUTLET, { kind: 'piece' })
 
 /**
+ * One writing, ONLY if this site's index lists it. `store.getPiece` reads any piece in the
+ * shared store, so `/writings/<slug>` used to render another publication's pieces here, under
+ * this site's title, by direct URL (found 2026-10-15). The index is
+ * the authority for what this site publishes ("a piece appears here only if it says so"), so
+ * the page asks it first and 404s anything it does not list.
+ */
+export async function getWriting(slug: string) {
+  const listed = await listWritings()
+  if (!listed.some((w) => w.slug === slug)) return null
+  return store.getPiece(slug)
+}
+
+/**
  * The scratch piece (quire 0.16): the one record a test may overwrite, shown at /scratch/ and in
  * no list or sitemap. Read uncached so a test sees its upload at once; store_publish invalidates
  * the CDN copy of whatever it uploads.

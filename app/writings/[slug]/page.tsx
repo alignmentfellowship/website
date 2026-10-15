@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { store, listWritings, REVALIDATE } from '@/lib/store'
+import { getWriting, listWritings } from '@/lib/store'
 import { PieceArticle } from '../PieceArticle'
 
 // Must be a literal: Next reads segment config statically, so an imported constant is
@@ -14,7 +14,7 @@ export async function generateStaticParams() {
 export async function generateMetadata(
   { params }: { params: Promise<{ slug: string }> }
 ): Promise<Metadata> {
-  const w = await store.getPiece((await params).slug)
+  const w = await getWriting((await params).slug)
   if (!w) return {}
   return {
     title: w.title,
@@ -36,7 +36,7 @@ export async function generateMetadata(
 }
 
 export default async function Piece({ params }: { params: Promise<{ slug: string }> }) {
-  const w = await store.getPiece((await params).slug)
+  const w = await getWriting((await params).slug)
   if (!w) notFound()
 
   return <PieceArticle w={w} />
